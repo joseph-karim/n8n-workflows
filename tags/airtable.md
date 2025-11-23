@@ -1,4 +1,4 @@
-# airtable : 214
+# airtable : 215
 
 |id|file|
 |----|----|
@@ -216,3 +216,4 @@
 |10339|[10339_Classify_Developer_Questions_with_GPT-4o_from_Slack_to_Notion___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10339_Classify_Developer_Questions_with_GPT-4o_from_Slack_to_Notion___Airtable.json)|
 |10388|[10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json)|
 |10405|[10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json)|
+|10866|[10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json)|

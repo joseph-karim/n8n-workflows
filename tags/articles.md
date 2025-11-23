@@ -1,4 +1,4 @@
-# articles : 45
+# articles : 46
 
 |id|file|
 |----|----|
@@ -47,3 +47,4 @@
 |9920|[9920_Auto-Generate_WordPress_Articles_from_News_with_Claude_AI_and_LinkedIn_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9920_Auto-Generate_WordPress_Articles_from_News_with_Claude_AI_and_LinkedIn_Sharing.json)|
 |10311|[10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json)|
 |10542|[10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|

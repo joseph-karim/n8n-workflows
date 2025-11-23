@@ -1,4 +1,4 @@
-# use : 19
+# use : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |6211|[6211_Process_Voice__Images___Documents_with_GPT-4o__MongoDB___Gmail_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6211_Process_Voice__Images___Documents_with_GPT-4o__MongoDB___Gmail_Tools.json)|
 |7033|[7033_Automate_Competitor_Research___Intelligence_with_Browser_Use_Cloud_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7033_Automate_Competitor_Research___Intelligence_with_Browser_Use_Cloud_AI_and_Slack.json)|
 |7781|[7781_Automated_Client_Onboarding_System_with_Notion__Email___CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7781_Automated_Client_Onboarding_System_with_Notion__Email___CRM_Integration.json)|
+|10766|[10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json)|

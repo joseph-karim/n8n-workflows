@@ -1,4 +1,4 @@
-# receipt : 21
+# receipt : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |9285|[9285_Process_Receipt_Images_with_GPT-4o-mini__WhatsApp___Google_Sheets_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9285_Process_Receipt_Images_with_GPT-4o-mini__WhatsApp___Google_Sheets_Automation.json)|
 |9417|[9417_Automated_Receipt_Processing_for_Cashback_with_Jotform__Gemini_2.5___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9417_Automated_Receipt_Processing_for_Cashback_with_Jotform__Gemini_2.5___Notion.json)|
 |10558|[10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json)|
+|10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|

@@ -1,4 +1,4 @@
-# inventory : 18
+# inventory : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |9113|[9113_Create_Workflow_Inventory_Dashboard_with_n8n_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9113_Create_Workflow_Inventory_Dashboard_with_n8n_API_and_Google_Sheets.json)|
 |10089|[10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json)|
 |10531|[10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json)|
+|10899|[10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json)|

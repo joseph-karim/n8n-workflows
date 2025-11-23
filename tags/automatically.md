@@ -1,4 +1,4 @@
-# automatically : 144
+# automatically : 147
 
 |id|file|
 |----|----|
@@ -146,3 +146,6 @@
 |10335|[10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json)|
 |10336|[10336_Generate_Business_Proposals_with_GPT-4o__Google_Sheets_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10336_Generate_Business_Proposals_with_GPT-4o__Google_Sheets_and_Google_Docs.json)|
 |10516|[10516_Automatically_Update_Amazon_Transaction_Memos_in_YNAB_with_AI___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10516_Automatically_Update_Amazon_Transaction_Memos_in_YNAB_with_AI___Gmail.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
+|10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|
+|10915|[10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json)|

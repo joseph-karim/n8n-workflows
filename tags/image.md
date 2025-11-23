@@ -1,4 +1,4 @@
-# image : 183
+# image : 185
 
 |id|file|
 |----|----|
@@ -185,3 +185,5 @@
 |10466|[10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json)|
 |10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|
 |10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|
+|10863|[10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json)|
+|10982|[10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json)|

@@ -1,4 +1,4 @@
-# price : 45
+# price : 47
 
 |id|file|
 |----|----|
@@ -47,3 +47,5 @@
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
 |10390|[10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json)|
 |10624|[10624_Automate_Singapore_COE_Price_Analysis___Purchase_Timing_with_GLM-4.5_AI_Predictions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10624_Automate_Singapore_COE_Price_Analysis___Purchase_Timing_with_GLM-4.5_AI_Predictions.json)|
+|10891|[10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json)|
+|10915|[10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json)|

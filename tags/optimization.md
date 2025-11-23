@@ -1,4 +1,4 @@
-# optimization : 19
+# optimization : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |10174|[10174_PPC_Campaign_Intelligence___Optimization_with_Google_Ads__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10174_PPC_Campaign_Intelligence___Optimization_with_Google_Ads__Sheets___Slack.json)|
 |10219|[10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json)|
 |10239|[10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|

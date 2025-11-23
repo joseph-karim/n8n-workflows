@@ -1,4 +1,4 @@
-# audit : 25
+# audit : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9502|[9502_Create_AI-Powered_SEO_Audit_Reports_with_DataForSEO_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9502_Create_AI-Powered_SEO_Audit_Reports_with_DataForSEO_and_Claude.json)|
 |9982|[9982_Weekly_SEO_Watchlist_Audit_to_Google_Sheets_with_Gemini_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9982_Weekly_SEO_Watchlist_Audit_to_Google_Sheets_with_Gemini_and_Decodo.json)|
 |10112|[10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json)|
+|10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|

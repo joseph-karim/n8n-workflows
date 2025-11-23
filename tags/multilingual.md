@@ -1,4 +1,4 @@
-# multilingual : 14
+# multilingual : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8179|[8179_Generate_Multilingual_Shopify_Product_Descriptions_with_Gemini_2.5_Vision_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8179_Generate_Multilingual_Shopify_Product_Descriptions_with_Gemini_2.5_Vision_AI.json)|
 |9027|[9027_WhatsApp_Customer_Support_with_Claude_AI__Google_Docs___Multilingual_Capabilities.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9027_WhatsApp_Customer_Support_with_Claude_AI__Google_Docs___Multilingual_Capabilities.json)|
 |10185|[10185_Automate_Multilingual_Slack_Communication__JA___EN__with_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10185_Automate_Multilingual_Slack_Communication__JA___EN__with_Gemini_2.5_Flash.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|

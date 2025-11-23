@@ -1,4 +1,4 @@
-# recommendations : 25
+# recommendations : 28
 
 |id|file|
 |----|----|
@@ -27,3 +27,6 @@
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
 |10221|[10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json)|
 |10630|[10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|
+|11004|[11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json)|

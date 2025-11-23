@@ -1,4 +1,4 @@
-# text : 139
+# text : 142
 
 |id|file|
 |----|----|
@@ -141,3 +141,6 @@
 |10290|[10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json)|
 |10433|[10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json)|
 |10542|[10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json)|
+|10876|[10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json)|
+|10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
+|10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|

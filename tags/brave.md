@@ -1,4 +1,4 @@
-# brave : 8
+# brave : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |4525|[4525_Build_a_Multi-functional_Telegram_Bot_with_Gemini__RAG_PDF_Search___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4525_Build_a_Multi-functional_Telegram_Bot_with_Gemini__RAG_PDF_Search___Google_Suite.json)|
 |4559|[4559_Intelligent_Web___Local_Search_with_Brave_Search_API_and_Google_Gemini_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4559_Intelligent_Web___Local_Search_with_Brave_Search_API_and_Google_Gemini_MCP_Server.json)|
 |4910|[4910_Discover_Business_Leads_with_Gemini__Brave_Search_and_Web_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4910_Discover_Business_Leads_with_Gemini__Brave_Search_and_Web_Scraping.json)|
+|10778|[10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json)|

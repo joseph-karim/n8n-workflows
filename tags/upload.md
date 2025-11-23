@@ -1,4 +1,4 @@
-# upload : 92
+# upload : 94
 
 |id|file|
 |----|----|
@@ -94,3 +94,5 @@
 |10649|[10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json)|
 |10671|[10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json)|
 |10711|[10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json)|
+|10713|[10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json)|
+|11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|

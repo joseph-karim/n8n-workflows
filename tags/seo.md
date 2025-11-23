@@ -1,4 +1,4 @@
-# seo : 143
+# seo : 146
 
 |id|file|
 |----|----|
@@ -145,3 +145,6 @@
 |10293|[10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json)|
 |10689|[10689_Automated_SEO_Watchlist__Continuous_Audits_with_Decodo__Gemini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10689_Automated_SEO_Watchlist__Continuous_Audits_with_Decodo__Gemini___Google_Sheets.json)|
 |10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|

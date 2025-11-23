@@ -1,4 +1,4 @@
-# slides : 16
+# slides : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |10197|[10197_Generate_YouTube_Channel_Profile_Reports_in_Google_Slides_with_ChannelCrawler___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10197_Generate_YouTube_Channel_Profile_Reports_in_Google_Slides_with_ChannelCrawler___GPT-4.json)|
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
 |10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|

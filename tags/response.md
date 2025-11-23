@@ -1,4 +1,4 @@
-# response : 45
+# response : 46
 
 |id|file|
 |----|----|
@@ -47,3 +47,4 @@
 |9967|[9967_Personalized_Lead_Response_with_AI_Videos_using_Scout__GPT-4__and_HeyGen.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9967_Personalized_Lead_Response_with_AI_Videos_using_Scout__GPT-4__and_HeyGen.json)|
 |10559|[10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|

@@ -1,4 +1,4 @@
-# approval : 52
+# approval : 57
 
 |id|file|
 |----|----|
@@ -54,3 +54,8 @@
 |10072|[10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json)|
 |10471|[10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json)|
 |10522|[10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json)|
+|10737|[10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|
+|11050|[11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json)|

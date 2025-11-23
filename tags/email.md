@@ -1,4 +1,4 @@
-# email : 638
+# email : 648
 
 |id|file|
 |----|----|
@@ -640,3 +640,13 @@
 |10768|[10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json)|
 |10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
 |10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|
+|10795|[10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json)|
+|10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|
+|10982|[10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json)|
+|11005|[11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json)|
+|11016|[11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json)|
+|11017|[11017_Email_List_Validation_and_Cleanup_with_Google_Sheets_and_VerifiEmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11017_Email_List_Validation_and_Cleanup_with_Google_Sheets_and_VerifiEmail.json)|
+|11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|

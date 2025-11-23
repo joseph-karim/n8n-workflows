@@ -1,4 +1,4 @@
-# powered : 395
+# powered : 405
 
 |id|file|
 |----|----|
@@ -397,3 +397,13 @@
 |10615|[10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json)|
 |10626|[10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json)|
 |10630|[10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json)|
+|10791|[10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|
+|10827|[10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|
+|10840|[10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json)|
+|10863|[10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json)|
+|10947|[10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|

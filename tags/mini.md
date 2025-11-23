@@ -1,4 +1,4 @@
-# mini : 242
+# mini : 249
 
 |id|file|
 |----|----|
@@ -244,3 +244,10 @@
 |10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|
 |10681|[10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json)|
 |10716|[10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|
+|10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
+|10773|[10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|
+|10840|[10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json)|
+|10947|[10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json)|
+|10968|[10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json)|

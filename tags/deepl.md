@@ -1,4 +1,4 @@
-# deepl : 8
+# deepl : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |10300|[10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json)|
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
 |10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|

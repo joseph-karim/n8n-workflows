@@ -1,4 +1,4 @@
-# real : 99
+# real : 102
 
 |id|file|
 |----|----|
@@ -101,3 +101,6 @@
 |10205|[10205_Auto-Generate_Competitive_Battlecards_with_AI__Slack___Notion__Klue_Alternative.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10205_Auto-Generate_Competitive_Battlecards_with_AI__Slack___Notion__Klue_Alternative.json)|
 |10218|[10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json)|
 |10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|10888|[10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json)|

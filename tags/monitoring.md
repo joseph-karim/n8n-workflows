@@ -1,4 +1,4 @@
-# monitoring : 79
+# monitoring : 80
 
 |id|file|
 |----|----|
@@ -81,3 +81,4 @@
 |10251|[10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json)|
 |10252|[10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json)|
 |10525|[10525_Health_Monitoring_System_with_Grok-3_AI_Analysis_and_Family_Doctor_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10525_Health_Monitoring_System_with_Grok-3_AI_Analysis_and_Family_Doctor_Email_Alerts.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|

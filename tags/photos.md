@@ -1,4 +1,4 @@
-# photos : 21
+# photos : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |9558|[9558_Generate_Recipes_from_Fridge_Photos_using_GPT-4_Vision___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9558_Generate_Recipes_from_Fridge_Photos_using_GPT-4_Vision___Telegram.json)|
 |9712|[9712_Generate_AI_Product_Photos_using_Gemini_Nano_Banana_with_Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9712_Generate_AI_Product_Photos_using_Gemini_Nano_Banana_with_Jotform___Google_Sheets.json)|
 |10277|[10277_Snap___Track_Nutrition__Telegram_Food_Photos___Gemini_Vision_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10277_Snap___Track_Nutrition__Telegram_Food_Photos___Gemini_Vision_AI___Google_Sheets.json)|
+|10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|

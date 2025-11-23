@@ -1,4 +1,4 @@
-# reporting : 47
+# reporting : 49
 
 |id|file|
 |----|----|
@@ -49,3 +49,5 @@
 |10379|[10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json)|
 |10441|[10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json)|
 |10692|[10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|
+|11007|[11007_Network_Vulnerability_Scanner_with_NMAP_and_Automated_CVE_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11007_Network_Vulnerability_Scanner_with_NMAP_and_Automated_CVE_Reporting.json)|

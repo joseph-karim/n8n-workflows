@@ -1,4 +1,4 @@
-# ups : 22
+# ups : 23
 
 |id|file|
 |----|----|
@@ -24,3 +24,4 @@
 |9855|[9855_Extract_LinkedIn_Profile_Data___Generate_Follow-ups_with_Vision_AI_and_Google_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9855_Extract_LinkedIn_Profile_Data___Generate_Follow-ups_with_Vision_AI_and_Google_Forms.json)|
 |9959|[9959_Recover_Missed_Demos_with_Calendly__Zoom___AI-Generated_Follow-ups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9959_Recover_Missed_Demos_with_Calendly__Zoom___AI-Generated_Follow-ups.json)|
 |10282|[10282_Automate_Event_Follow-Ups_with_GPT-4__LinkedIn___HubSpot_Multi-Channel_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10282_Automate_Event_Follow-Ups_with_GPT-4__LinkedIn___HubSpot_Multi-Channel_Outreach.json)|
+|10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|

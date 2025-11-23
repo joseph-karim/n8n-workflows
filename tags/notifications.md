@@ -1,4 +1,4 @@
-# notifications : 153
+# notifications : 155
 
 |id|file|
 |----|----|
@@ -155,3 +155,5 @@
 |10634|[10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json)|
 |10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|
 |10745|[10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
+|11005|[11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json)|

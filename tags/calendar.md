@@ -1,4 +1,4 @@
-# calendar : 162
+# calendar : 163
 
 |id|file|
 |----|----|
@@ -164,3 +164,4 @@
 |10468|[10468_Schedule_Meetings_via_WhatsApp_Using_Natural_Language_with_Gemini_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10468_Schedule_Meetings_via_WhatsApp_Using_Natural_Language_with_Gemini_AI___Google_Suite.json)|
 |10665|[10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json)|
 |10723|[10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json)|
+|10905|[10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json)|

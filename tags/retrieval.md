@@ -1,4 +1,4 @@
-# retrieval : 16
+# retrieval : 18
 
 |id|file|
 |----|----|
@@ -18,3 +18,5 @@
 |7946|[7946_Evaluate_Hybrid_Search_for_Legal_Question-Answering_using_Qdrant___BM25_mxbai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7946_Evaluate_Hybrid_Search_for_Legal_Question-Answering_using_Qdrant___BM25_mxbai.json)|
 |8008|[8008_Smarter_RAG_Agents_with_Enriched_Retrieval_and_Modular_Workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8008_Smarter_RAG_Agents_with_Enriched_Retrieval_and_Modular_Workflows.json)|
 |10294|[10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|

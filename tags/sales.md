@@ -1,4 +1,4 @@
-# sales : 117
+# sales : 120
 
 |id|file|
 |----|----|
@@ -119,3 +119,6 @@
 |10558|[10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json)|
 |10561|[10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json)|
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
+|10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|
+|10836|[10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json)|
+|10840|[10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json)|

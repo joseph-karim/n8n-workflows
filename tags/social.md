@@ -1,4 +1,4 @@
-# social : 159
+# social : 162
 
 |id|file|
 |----|----|
@@ -160,4 +160,7 @@
 |10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|
 |10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|
 |10739|[10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json)|
+|10750|[10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json)|
 |10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|

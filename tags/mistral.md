@@ -1,4 +1,4 @@
-# mistral : 49
+# mistral : 51
 
 |id|file|
 |----|----|
@@ -51,3 +51,5 @@
 |10369|[10369_Automate_Loan_Document_Analysis_with_Mistral_OCR_and_GPT_for_Underwriting_Decisions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10369_Automate_Loan_Document_Analysis_with_Mistral_OCR_and_GPT_for_Underwriting_Decisions.json)|
 |10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
 |10559|[10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json)|
+|10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
+|10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|

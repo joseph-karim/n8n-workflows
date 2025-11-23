@@ -1,4 +1,4 @@
-# notion : 188
+# notion : 190
 
 |id|file|
 |----|----|
@@ -190,3 +190,5 @@
 |10340|[10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json)|
 |10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|
 |10617|[10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json)|
+|10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|

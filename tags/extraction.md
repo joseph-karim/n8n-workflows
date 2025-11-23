@@ -1,4 +1,4 @@
-# extraction : 45
+# extraction : 47
 
 |id|file|
 |----|----|
@@ -47,3 +47,5 @@
 |10405|[10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json)|
 |10617|[10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json)|
 |10640|[10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json)|
+|10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
+|10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|

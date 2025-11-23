@@ -1,4 +1,4 @@
-# recipes : 7
+# recipes : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8221|[8221_Generate_Custom_Recipes_and_Restaurant-Style_Food_Images_with_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8221_Generate_Custom_Recipes_and_Restaurant-Style_Food_Images_with_Telegram_Bot.json)|
 |8425|[8425_Manage_Recipes_with_AI-Powered_Telegram_Bot_and_Google_Sheets_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8425_Manage_Recipes_with_AI-Powered_Telegram_Bot_and_Google_Sheets_Database.json)|
 |9558|[9558_Generate_Recipes_from_Fridge_Photos_using_GPT-4_Vision___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9558_Generate_Recipes_from_Fridge_Photos_using_GPT-4_Vision___Telegram.json)|
+|10967|[10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json)|

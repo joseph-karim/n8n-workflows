@@ -1,4 +1,4 @@
-# html : 35
+# html : 38
 
 |id|file|
 |----|----|
@@ -37,3 +37,6 @@
 |10133|[10133_Verify_Emails___Generate_Resume_Cards_with_VerifiEmail__HTML_CSS_to_Image___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10133_Verify_Emails___Generate_Resume_Cards_with_VerifiEmail__HTML_CSS_to_Image___Gmail.json)|
 |10242|[10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json)|
 |10404|[10404_Export_Icon_Metadata_from_Iconfinder_to_HTML___CSV_with_Previews.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10404_Export_Icon_Metadata_from_Iconfinder_to_HTML___CSV_with_Previews.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|
+|11016|[11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json)|
+|11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|

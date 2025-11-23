@@ -1,4 +1,4 @@
-# digest : 53
+# digest : 55
 
 |id|file|
 |----|----|
@@ -55,3 +55,5 @@
 |10168|[10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json)|
 |10196|[10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json)|
 |10246|[10246_Generate_AI-Curated_Reddit_Digests_for_Telegram__Discord___Slack_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10246_Generate_AI-Curated_Reddit_Digests_for_Telegram__Discord___Slack_with_Gemini.json)|
+|10952|[10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json)|
+|10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|

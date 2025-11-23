@@ -1,4 +1,4 @@
-# project : 23
+# project : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |9684|[9684_Automate_Cross-Project_Dependency_Tracking_between_Jira_and_Monday.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9684_Automate_Cross-Project_Dependency_Tracking_between_Jira_and_Monday.json)|
 |10054|[10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json)|
 |10230|[10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json)|
+|10713|[10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json)|

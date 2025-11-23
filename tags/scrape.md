@@ -1,4 +1,4 @@
-# scrape : 84
+# scrape : 86
 
 |id|file|
 |----|----|
@@ -86,3 +86,5 @@
 |10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
 |10640|[10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json)|
 |10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|
+|10952|[10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json)|
+|11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|

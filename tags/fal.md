@@ -1,4 +1,4 @@
-# fal : 27
+# fal : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |9561|[9561_Automate_Product_Ad_Creation_with_Telegram__Fal.AI___Facebook_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9561_Automate_Product_Ad_Creation_with_Telegram__Fal.AI___Facebook_Posting.json)|
 |10005|[10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json)|
 |10433|[10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json)|
+|10863|[10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json)|
+|11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|

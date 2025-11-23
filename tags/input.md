@@ -1,4 +1,4 @@
-# input : 9
+# input : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |7772|[7772_Automate_Video_Creation_from_Voice_Input_with_HeyGen__GPT-5___Social_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7772_Automate_Video_Creation_from_Voice_Input_with_HeyGen__GPT-5___Social_Publishing.json)|
 |8649|[8649_Generate_Multi-Platform_Content_from_Forms_using_Tavily_Research_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8649_Generate_Multi-Platform_Content_from_Forms_using_Tavily_Research_and_OpenAI.json)|
 |10239|[10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|

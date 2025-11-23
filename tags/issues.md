@@ -1,4 +1,4 @@
-# issues : 27
+# issues : 28
 
 |id|file|
 |----|----|
@@ -29,3 +29,4 @@
 |9246|[9246_GitHub_to_Jira_Bug_Sync_with_GPT-4o_Analysis___Team_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9246_GitHub_to_Jira_Bug_Sync_with_GPT-4o_Analysis___Team_Alerts.json)|
 |9682|[9682_Route_Jira_Tasks_to_Experts_Using_Google_Sheets_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9682_Route_Jira_Tasks_to_Experts_Using_Google_Sheets_and_GPT-4o-mini.json)|
 |10329|[10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|

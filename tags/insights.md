@@ -1,4 +1,4 @@
-# insights : 68
+# insights : 70
 
 |id|file|
 |----|----|
@@ -70,3 +70,5 @@
 |10252|[10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json)|
 |10427|[10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json)|
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|

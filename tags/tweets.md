@@ -1,4 +1,4 @@
-# tweets : 11
+# tweets : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |8655|[8655_Generate_Newsletter_Images_with_Nano_Banana___Post_Human-Approved_Tweets_to_X.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8655_Generate_Newsletter_Images_with_Nano_Banana___Post_Human-Approved_Tweets_to_X.json)|
 |9355|[9355_Daily_Competitor_Tweet_Summarizer_with_X_API__GPT-5-Nano__and_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9355_Daily_Competitor_Tweet_Summarizer_with_X_API__GPT-5-Nano__and_Gmail_Delivery.json)|
 |9395|[9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json)|
+|10781|[10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json)|

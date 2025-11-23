@@ -1,4 +1,4 @@
-# summary : 82
+# summary : 85
 
 |id|file|
 |----|----|
@@ -84,3 +84,6 @@
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
 |10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
 |10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|
+|10836|[10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json)|
+|10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|
+|10952|[10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json)|

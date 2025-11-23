@@ -1,4 +1,4 @@
-# nasa : 9
+# nasa : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |10592|[10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json)|
 |10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|
 |10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|
+|10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
+|10994|[10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json)|

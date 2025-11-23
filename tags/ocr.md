@@ -1,4 +1,4 @@
-# ocr : 58
+# ocr : 59
 
 |id|file|
 |----|----|
@@ -60,3 +60,4 @@
 |10405|[10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json)|
 |10559|[10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json)|
 |10566|[10566_Process_Large_Documents_with_OCR_using_SubworkflowAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10566_Process_Large_Documents_with_OCR_using_SubworkflowAI_and_Gemini.json)|
+|10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|

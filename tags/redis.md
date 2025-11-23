@@ -1,4 +1,4 @@
-# redis : 23
+# redis : 25
 
 |id|file|
 |----|----|
@@ -25,3 +25,5 @@
 |10214|[10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json)|
 |10307|[10307_Automate_Instagram_Comment_Replies_with_OpenAI_and_Redis_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10307_Automate_Instagram_Comment_Replies_with_OpenAI_and_Redis_Tracking.json)|
 |10349|[10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10887|[10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json)|

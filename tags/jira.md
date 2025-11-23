@@ -1,4 +1,4 @@
-# jira : 66
+# jira : 68
 
 |id|file|
 |----|----|
@@ -68,3 +68,5 @@
 |9838|[9838_Enforce_Pre-Release_Compliance_with_Jira__Monday.com__and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9838_Enforce_Pre-Release_Compliance_with_Jira__Monday.com__and_Slack_Alerts.json)|
 |9976|[9976_Automated_Customer_Feedback_Triage___Follow-up_with_Gemini__Jotform__Gmail__Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9976_Automated_Customer_Feedback_Triage___Follow-up_with_Gemini__Jotform__Gmail__Jira.json)|
 |10332|[10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|
+|11008|[11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json)|

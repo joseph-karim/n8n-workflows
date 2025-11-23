@@ -1,4 +1,4 @@
-# trend : 20
+# trend : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |9938|[9938_AI_Industry_Trend_Monitor_24_7_Across_X__Gmail__and_Websites_Using_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9938_AI_Industry_Trend_Monitor_24_7_Across_X__Gmail__and_Websites_Using_GPT-5.json)|
 |9989|[9989_TikTok_Trend_Analyzer_with_Apify___Gemini___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9989_TikTok_Trend_Analyzer_with_Apify___Gemini___Airtable.json)|
 |10093|[10093_Daily_Gemini-Powered_Global_Trend_Analysis_with_GDELT__NewsAPI___Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10093_Daily_Gemini-Powered_Global_Trend_Analysis_with_GDELT__NewsAPI___Discord.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|

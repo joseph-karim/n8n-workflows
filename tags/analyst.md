@@ -1,4 +1,4 @@
-# analyst : 14
+# analyst : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |5994|[5994_Personalized_Stock_Portfolio_Analysis_and_Recommendations_with_Grok-4_and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5994_Personalized_Stock_Portfolio_Analysis_and_Recommendations_with_Grok-4_and_Perplexity.json)|
 |7197|[7197_Chat-Based_Financial_Analysis_of_P_L_and_Balance_Sheets_with_GPT-4___PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7197_Chat-Based_Financial_Analysis_of_P_L_and_Balance_Sheets_with_GPT-4___PostgreSQL.json)|
 |7718|[7718_Create_a_Data_Analyst_Chatbot_for_Real-time_Google_Sheets_Analysis_with_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7718_Create_a_Data_Analyst_Chatbot_for_Real-time_Google_Sheets_Analysis_with_GPT-5.json)|
+|10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|

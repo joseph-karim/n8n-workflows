@@ -1,4 +1,4 @@
-# from : 945
+# from : 955
 
 |id|file|
 |----|----|
@@ -947,3 +947,13 @@
 |10738|[10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json)|
 |10739|[10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json)|
 |10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|
+|10773|[10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|
+|10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|
+|10863|[10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10863_AI-Powered_Body_Measurement___Clothing_Size_Estimator_from_Image_with_Fal.ai.json)|
+|10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
+|10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
+|10968|[10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json)|
+|10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|

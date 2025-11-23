@@ -1,4 +1,4 @@
-# wordpress : 115
+# wordpress : 116
 
 |id|file|
 |----|----|
@@ -117,3 +117,4 @@
 |10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
 |10626|[10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json)|
 |10671|[10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json)|
+|10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|

@@ -1,4 +1,4 @@
-# formatting : 9
+# formatting : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8614|[8614_Access_Real-time_Binance_Market_Data_with_GPT-4o_Formatting_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8614_Access_Real-time_Binance_Market_Data_with_GPT-4o_Formatting_in_Telegram.json)|
 |9201|[9201_Extract___Filter_Reddit_Posts___Comments_with_Keyword_Search___Markdown_Formatting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9201_Extract___Filter_Reddit_Posts___Comments_with_Keyword_Search___Markdown_Formatting.json)|
 |9909|[9909_Send_Multi-City_Weather_Forecasts_with_AI-Enhanced_Formatting_from_OpenWeatherMap_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9909_Send_Multi-City_Weather_Forecasts_with_AI-Enhanced_Formatting_from_OpenWeatherMap_to_Gmail.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|

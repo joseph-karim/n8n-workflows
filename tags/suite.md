@@ -1,4 +1,4 @@
-# suite : 22
+# suite : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |10219|[10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json)|
 |10387|[10387_Generate__Encrypt__and_Send_Invoices_with_PDF_Generator_API___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10387_Generate__Encrypt__and_Send_Invoices_with_PDF_Generator_API___Google_Suite.json)|
 |10468|[10468_Schedule_Meetings_via_WhatsApp_Using_Natural_Language_with_Gemini_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10468_Schedule_Meetings_via_WhatsApp_Using_Natural_Language_with_Gemini_AI___Google_Suite.json)|
+|10729|[10729_Benchmark_Content_Safety_Guardrails_with_Automated_Test_Suite___Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10729_Benchmark_Content_Safety_Guardrails_with_Automated_Test_Suite___Reports.json)|
+|11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|

@@ -1,4 +1,4 @@
-# trends : 31
+# trends : 34
 
 |id|file|
 |----|----|
@@ -33,3 +33,6 @@
 |9771|[9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json)|
 |10341|[10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json)|
 |10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|
+|10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|
+|11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|

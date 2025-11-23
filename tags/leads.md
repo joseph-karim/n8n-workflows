@@ -1,4 +1,4 @@
-# leads : 115
+# leads : 116
 
 |id|file|
 |----|----|
@@ -117,3 +117,4 @@
 |10668|[10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json)|
 |10726|[10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json)|
 |10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|
+|10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|

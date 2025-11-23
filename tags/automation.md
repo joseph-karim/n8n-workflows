@@ -1,4 +1,4 @@
-# automation : 271
+# automation : 274
 
 |id|file|
 |----|----|
@@ -273,3 +273,6 @@
 |10333|[10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json)|
 |10441|[10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json)|
 |10454|[10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json)|
+|10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
+|10827|[10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json)|
+|11008|[11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json)|

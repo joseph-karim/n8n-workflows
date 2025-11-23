@@ -1,4 +1,4 @@
-# keyword : 56
+# keyword : 57
 
 |id|file|
 |----|----|
@@ -58,3 +58,4 @@
 |10002|[10002_Track_Competitor_SEO_Keywords_with_Decodo___GPT-4.1-mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10002_Track_Competitor_SEO_Keywords_with_Decodo___GPT-4.1-mini___Google_Sheets.json)|
 |10137|[10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json)|
 |10648|[10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|

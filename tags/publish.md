@@ -1,4 +1,4 @@
-# publish : 69
+# publish : 70
 
 |id|file|
 |----|----|
@@ -71,3 +71,4 @@
 |10551|[10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json)|
 |10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
+|10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|

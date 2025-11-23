@@ -1,4 +1,4 @@
-# mapping : 7
+# mapping : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7207|[7207_Automate_WordPress_Category_Mapping_with_GPT-5_Mini__Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7207_Automate_WordPress_Category_Mapping_with_GPT-5_Mini__Azure_OpenAI.json)|
 |8231|[8231_Create_Monday.com_Board_Items_from_Jotform_Submissions_with_Field_Mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8231_Create_Monday.com_Board_Items_from_Jotform_Submissions_with_Field_Mapping.json)|
 |8446|[8446_Analyze_Competitor_Content_Gaps_with_Gemini_AI__Apify___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8446_Analyze_Competitor_Content_Gaps_with_Gemini_AI__Apify___Google_Sheets.json)|
+|10740|[10740_Automate_External_Attack_Surface_Mapping_with_Shodan_API_and_DNS_Lookups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10740_Automate_External_Attack_Surface_Mapping_with_Shodan_API_and_DNS_Lookups.json)|

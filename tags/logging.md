@@ -1,4 +1,4 @@
-# logging : 34
+# logging : 35
 
 |id|file|
 |----|----|
@@ -36,3 +36,4 @@
 |9610|[9610_Automatic_Gmail_Invoice_PDF_Upload_to_Google_Drive_with_Spreadsheet_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9610_Automatic_Gmail_Invoice_PDF_Upload_to_Google_Drive_with_Spreadsheet_Logging.json)|
 |9679|[9679_Automated_Email_Management_with_Gemini_AI__Gmail_Summarizing__Labeling_and_Notion_Sheets_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9679_Automated_Email_Management_with_Gemini_AI__Gmail_Summarizing__Labeling_and_Notion_Sheets_Logging.json)|
 |10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|
+|10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|

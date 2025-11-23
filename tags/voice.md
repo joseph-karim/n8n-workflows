@@ -1,4 +1,4 @@
-# voice : 118
+# voice : 123
 
 |id|file|
 |----|----|
@@ -120,3 +120,8 @@
 |10129|[10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json)|
 |10187|[10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json)|
 |10290|[10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json)|
+|10806|[10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
+|10905|[10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json)|
+|10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|
+|10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|

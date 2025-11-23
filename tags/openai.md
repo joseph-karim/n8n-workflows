@@ -1,4 +1,4 @@
-# openai : 510
+# openai : 518
 
 |id|file|
 |----|----|
@@ -512,3 +512,11 @@
 |10661|[10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json)|
 |10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|
 |10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|
+|10806|[10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json)|
+|10820|[10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10870|[10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json)|
+|10888|[10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json)|
+|10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|
+|10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|
+|11008|[11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json)|

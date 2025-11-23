@@ -1,4 +1,4 @@
-# analytics : 50
+# analytics : 53
 
 |id|file|
 |----|----|
@@ -52,3 +52,6 @@
 |10226|[10226_Generate_Weekly_Workflow_Analytics_Reports_with_n8n_API___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10226_Generate_Weekly_Workflow_Analytics_Reports_with_n8n_API___Email_Delivery.json)|
 |10283|[10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json)|
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10815|[10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json)|
+|10891|[10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json)|
+|11010|[11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json)|

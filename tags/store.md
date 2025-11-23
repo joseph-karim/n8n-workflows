@@ -1,4 +1,4 @@
-# store : 79
+# store : 81
 
 |id|file|
 |----|----|
@@ -81,3 +81,5 @@
 |10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
 |10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|
 |10725|[10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10887|[10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json)|

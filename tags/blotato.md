@@ -1,4 +1,4 @@
-# blotato : 35
+# blotato : 36
 
 |id|file|
 |----|----|
@@ -37,3 +37,4 @@
 |10298|[10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json)|
 |10358|[10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json)|
 |10514|[10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json)|
+|10867|[10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json)|

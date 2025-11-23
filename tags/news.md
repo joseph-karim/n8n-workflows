@@ -1,4 +1,4 @@
-# news : 155
+# news : 159
 
 |id|file|
 |----|----|
@@ -157,3 +157,7 @@
 |10425|[10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json)|
 |10630|[10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json)|
 |10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|
+|10952|[10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json)|
+|10961|[10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json)|
+|10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|

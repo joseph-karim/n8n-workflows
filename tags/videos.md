@@ -1,4 +1,4 @@
-# videos : 198
+# videos : 204
 
 |id|file|
 |----|----|
@@ -199,4 +199,10 @@
 |10433|[10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json)|
 |10514|[10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json)|
 |10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|
+|10713|[10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json)|
 |10735|[10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json)|
+|10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
+|10861|[10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json)|
+|10867|[10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json)|
+|11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|

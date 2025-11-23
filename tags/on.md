@@ -1,4 +1,4 @@
-# on : 283
+# on : 285
 
 |id|file|
 |----|----|
@@ -285,3 +285,5 @@
 |10077|[10077_Automate_a__Chat_with_your_PDF__Bot_on_Telegram_with_Google_Gemini___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10077_Automate_a__Chat_with_your_PDF__Bot_on_Telegram_with_Google_Gemini___Pinecone.json)|
 |10122|[10122_Automate_Facebook_Reels_Publishing_with_Google_Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10122_Automate_Facebook_Reels_Publishing_with_Google_Sheets_and_Drive.json)|
 |10433|[10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json)|
+|10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
+|11004|[11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json)|

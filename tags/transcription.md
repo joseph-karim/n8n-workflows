@@ -1,4 +1,4 @@
-# transcription : 23
+# transcription : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |9644|[9644_Automated_Meeting_Minutes_from_Audio_using_OpenAI_Transcription_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9644_Automated_Meeting_Minutes_from_Audio_using_OpenAI_Transcription_and_Google_Docs.json)|
 |9749|[9749_Scheduled_YouTube_Transcription_with_De-duplication_using_Transcript.io_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9749_Scheduled_YouTube_Transcription_with_De-duplication_using_Transcript.io_and_Supabase.json)|
 |10037|[10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json)|
+|10820|[10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json)|

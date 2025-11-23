@@ -1,4 +1,4 @@
-# auto : 378
+# auto : 385
 
 |id|file|
 |----|----|
@@ -379,4 +379,11 @@
 |10634|[10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json)|
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
 |10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|
+|10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
+|10713|[10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json)|
+|10781|[10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json)|
 |10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|
+|10867|[10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json)|
+|10889|[10889_Auto_Generate_Descriptive_Node_Names_with_AI_for_Workflow_Readability.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10889_Auto_Generate_Descriptive_Node_Names_with_AI_for_Workflow_Readability.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|

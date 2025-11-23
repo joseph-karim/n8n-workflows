@@ -1,4 +1,4 @@
-# data : 552
+# data : 559
 
 |id|file|
 |----|----|
@@ -552,5 +552,12 @@
 |10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
 |10599|[10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json)|
 |10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
+|10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
 |10725|[10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json)|
 |10747|[10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|
+|10791|[10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10888|[10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json)|
+|11010|[11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json)|

@@ -1,4 +1,4 @@
-# send : 333
+# send : 335
 
 |id|file|
 |----|----|
@@ -335,3 +335,5 @@
 |10400|[10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json)|
 |10427|[10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json)|
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
+|10915|[10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json)|
+|11011|[11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json)|

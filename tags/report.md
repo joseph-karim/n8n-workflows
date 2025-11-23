@@ -1,4 +1,4 @@
-# report : 103
+# report : 104
 
 |id|file|
 |----|----|
@@ -105,3 +105,4 @@
 |10377|[10377_Customer_Financial_Report_Delivery_System_with_Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10377_Customer_Financial_Report_Delivery_System_with_Telegram_and_Google_Sheets.json)|
 |10420|[10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json)|
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|

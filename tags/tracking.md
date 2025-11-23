@@ -1,4 +1,4 @@
-# tracking : 121
+# tracking : 126
 
 |id|file|
 |----|----|
@@ -123,3 +123,8 @@
 |10390|[10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json)|
 |10688|[10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json)|
 |10711|[10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|
+|10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
+|10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|
+|10864|[10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json)|
+|10967|[10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json)|

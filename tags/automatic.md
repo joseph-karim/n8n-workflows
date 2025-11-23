@@ -1,4 +1,4 @@
-# automatic : 69
+# automatic : 72
 
 |id|file|
 |----|----|
@@ -71,3 +71,6 @@
 |10028|[10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json)|
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
 |10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|
+|10733|[10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json)|
+|10766|[10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json)|
+|11005|[11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json)|

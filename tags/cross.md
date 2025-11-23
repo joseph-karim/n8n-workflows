@@ -1,4 +1,4 @@
-# cross : 9
+# cross : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |10141|[10141_Send_WooCommerce_Cross-Sell_Offers_to_Customers_via_WhatsApp_Using_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10141_Send_WooCommerce_Cross-Sell_Offers_to_Customers_via_WhatsApp_Using_Rapiwa_API.json)|
 |10251|[10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json)|
 |10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|

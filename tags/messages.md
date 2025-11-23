@@ -1,4 +1,4 @@
-# messages : 82
+# messages : 84
 
 |id|file|
 |----|----|
@@ -84,3 +84,5 @@
 |9926|[9926_Team_Morale_Monitoring_from_Teams_Slack_Messages_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9926_Team_Morale_Monitoring_from_Teams_Slack_Messages_with_Gemini_AI.json)|
 |10129|[10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json)|
 |10323|[10323_Facebook_Lead_Management__Automate_Email_Responses_with_Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10323_Facebook_Lead_Management__Automate_Email_Responses_with_Gmail___Google_Sheets.json)|
+|10790|[10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|

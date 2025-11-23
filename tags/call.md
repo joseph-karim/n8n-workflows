@@ -1,4 +1,4 @@
-# call : 50
+# call : 52
 
 |id|file|
 |----|----|
@@ -52,3 +52,5 @@
 |8966|[8966_AI_Call_Summary_to_HubSpot___Follow-Up_Task.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8966_AI_Call_Summary_to_HubSpot___Follow-Up_Task.json)|
 |9381|[9381_Automate_Sales_Call_Grading_with_Fireflies.ai__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9381_Automate_Sales_Call_Grading_with_Fireflies.ai__OpenAI__and_Google_Sheets.json)|
 |10255|[10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json)|
+|10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|
+|10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|

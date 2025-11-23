@@ -1,4 +1,4 @@
-# source : 20
+# source : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |9891|[9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json)|
 |10149|[10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json)|
 |10349|[10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|

@@ -1,4 +1,4 @@
-# folder : 20
+# folder : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |7415|[7415_Smart_Nested_Folder_Creation_in_OneDrive_with_Existence_Checking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7415_Smart_Nested_Folder_Creation_in_OneDrive_with_Existence_Checking.json)|
 |7979|[7979_Chat_with_Google_Drive_Documents_using_GPT__Pinecone__and_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7979_Chat_with_Google_Drive_Documents_using_GPT__Pinecone__and_RAG.json)|
 |9209|[9209_Scheduled_Monitoring_of_New___Modified_Files_Across_Google_Drive_Folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9209_Scheduled_Monitoring_of_New___Modified_Files_Across_Google_Drive_Folders.json)|
+|10766|[10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json)|

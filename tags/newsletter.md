@@ -1,4 +1,4 @@
-# newsletter : 40
+# newsletter : 42
 
 |id|file|
 |----|----|
@@ -42,3 +42,5 @@
 |10138|[10138_Newsletter_Signup_Flow_with_Email_Verification_API__Gmail___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10138_Newsletter_Signup_Flow_with_Email_Verification_API__Gmail___Google_Sheets_Tracking.json)|
 |10196|[10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json)|
 |10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|
+|10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
+|10952|[10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json)|

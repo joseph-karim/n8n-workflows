@@ -1,4 +1,4 @@
-# verification : 42
+# verification : 43
 
 |id|file|
 |----|----|
@@ -44,3 +44,4 @@
 |10454|[10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json)|
 |10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
 |10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|
+|11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|

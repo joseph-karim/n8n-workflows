@@ -1,4 +1,4 @@
-# youtube : 218
+# youtube : 220
 
 |id|file|
 |----|----|
@@ -219,4 +219,6 @@
 |10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
 |10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|
+|10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
 |10719|[10719_Generate_YouTube_Chapter_Timestamps_with_GPT_and_SupaData_Transcripts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10719_Generate_YouTube_Chapter_Timestamps_with_GPT_and_SupaData_Transcripts.json)|
+|10808|[10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json)|

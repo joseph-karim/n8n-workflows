@@ -1,4 +1,4 @@
-# cost : 12
+# cost : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |7398|[7398_LLM_Usage_Tracker___Cost_Monitor_with_Node-Level_Analytics__v2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7398_LLM_Usage_Tracker___Cost_Monitor_with_Node-Level_Analytics__v2.json)|
 |7856|[7856_Cost-Free_Email_Follow-Up_Sequence_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7856_Cost-Free_Email_Follow-Up_Sequence_with_Google_Sheets_and_Gmail.json)|
 |8044|[8044_Automate_Token_Purchases_with_Dollar_Cost_Averaging_on_Uniswap_V3___1Shot_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8044_Automate_Token_Purchases_with_Dollar_Cost_Averaging_on_Uniswap_V3___1Shot_API.json)|
+|10864|[10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json)|
+|10967|[10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# generator : 224
+# generator : 228
 
 |id|file|
 |----|----|
@@ -226,3 +226,7 @@
 |10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|
 |10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|
 |10800|[10800_AI_sticky_generator_for_n8n_templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10800_AI_sticky_generator_for_n8n_templates.json)|
+|10836|[10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json)|
+|10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|
+|10968|[10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json)|
+|11016|[11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json)|

@@ -1,4 +1,4 @@
-# rapiwa : 17
+# rapiwa : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |10141|[10141_Send_WooCommerce_Cross-Sell_Offers_to_Customers_via_WhatsApp_Using_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10141_Send_WooCommerce_Cross-Sell_Offers_to_Customers_via_WhatsApp_Using_Rapiwa_API.json)|
 |10237|[10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json)|
 |10716|[10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json)|
+|10790|[10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json)|

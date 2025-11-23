@@ -1,4 +1,4 @@
-# n8n : 325
+# n8n : 326
 
 |id|file|
 |----|----|
@@ -327,3 +327,4 @@
 |10607|[10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json)|
 |10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|
 |10800|[10800_AI_sticky_generator_for_n8n_templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10800_AI_sticky_generator_for_n8n_templates.json)|
+|11005|[11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json)|

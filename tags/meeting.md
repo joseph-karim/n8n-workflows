@@ -1,4 +1,4 @@
-# meeting : 68
+# meeting : 71
 
 |id|file|
 |----|----|
@@ -70,3 +70,6 @@
 |10286|[10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json)|
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
 |10569|[10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json)|
+|10795|[10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json)|
+|10820|[10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json)|
+|10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|

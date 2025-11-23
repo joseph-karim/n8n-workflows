@@ -1,4 +1,4 @@
-# assistant : 205
+# assistant : 210
 
 |id|file|
 |----|----|
@@ -207,3 +207,8 @@
 |10653|[10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json)|
 |10661|[10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json)|
 |10665|[10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json)|
+|10713|[10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
+|10947|[10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json)|
+|10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|

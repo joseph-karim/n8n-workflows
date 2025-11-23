@@ -1,4 +1,4 @@
-# training : 11
+# training : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |9140|[9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json)|
 |9731|[9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json)|
 |9822|[9822_Convert_Training_Prescriptions_to_Intervals.icu_Workouts_with_Claude_Opus_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9822_Convert_Training_Prescriptions_to_Intervals.icu_Workouts_with_Claude_Opus_AI.json)|
+|11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|

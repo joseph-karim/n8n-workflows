@@ -1,4 +1,4 @@
-# engine : 32
+# engine : 33
 
 |id|file|
 |----|----|
@@ -34,3 +34,4 @@
 |10164|[10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json)|
 |10221|[10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json)|
 |10239|[10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|

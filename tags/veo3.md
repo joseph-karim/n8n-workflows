@@ -1,4 +1,4 @@
-# veo3 : 31
+# veo3 : 33
 
 |id|file|
 |----|----|
@@ -33,3 +33,5 @@
 |9420|[9420_Automated_AI_Video_Creation_for_Multi-Platform_Content_using_NanoBanana___VEO3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9420_Automated_AI_Video_Creation_for_Multi-Platform_Content_using_NanoBanana___VEO3.json)|
 |9486|[9486_Generate_Biblical_Character_Vlogs_with_GPT-4o_and_Veo3_AI_Video_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9486_Generate_Biblical_Character_Vlogs_with_GPT-4o_and_Veo3_AI_Video_Generator.json)|
 |10393|[10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
+|10876|[10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json)|

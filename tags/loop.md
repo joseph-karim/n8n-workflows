@@ -1,4 +1,4 @@
-# loop : 26
+# loop : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |9472|[9472_Generate_AI_LinkedIn_Posts_with_Human_Approval_via_Telegram_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9472_Generate_AI_LinkedIn_Posts_with_Human_Approval_via_Telegram_and_GPT.json)|
 |9830|[9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json)|
 |10344|[10344_Automate_Gmail_Responses_with_GPT_and_Human-in-the-loop_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10344_Automate_Gmail_Responses_with_GPT_and_Human-in-the-loop_Verification.json)|
+|10737|[10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json)|

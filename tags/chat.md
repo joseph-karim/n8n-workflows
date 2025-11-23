@@ -1,4 +1,4 @@
-# chat : 115
+# chat : 119
 
 |id|file|
 |----|----|
@@ -117,3 +117,7 @@
 |10096|[10096_Document_RAG___Chat_Agent__Google_Drive_to_Qdrant_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10096_Document_RAG___Chat_Agent__Google_Drive_to_Qdrant_with_Mistral_OCR.json)|
 |10230|[10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json)|
 |10339|[10339_Classify_Developer_Questions_with_GPT-4o_from_Slack_to_Notion___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10339_Classify_Developer_Questions_with_GPT-4o_from_Slack_to_Notion___Airtable.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|

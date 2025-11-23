@@ -1,4 +1,4 @@
-# releases : 8
+# releases : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |3452|[3452_Monitor_GitHub_Releases_with_Gemini_AI_Chinese_Translation___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3452_Monitor_GitHub_Releases_with_Gemini_AI_Chinese_Translation___Slack_Notifications.json)|
 |4701|[4701_Notify_on_Discord_about_New_Epic_Games_Free_Game_Releases.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4701_Notify_on_Discord_about_New_Epic_Games_Free_Game_Releases.json)|
 |8491|[8491_Track_Forex_Factory_News_Releases_with_MyFxBook__Telegram___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8491_Track_Forex_Factory_News_Releases_with_MyFxBook__Telegram___Google_Sheets.json)|
+|11005|[11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json)|

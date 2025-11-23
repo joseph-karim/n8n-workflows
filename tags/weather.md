@@ -1,4 +1,4 @@
-# weather : 48
+# weather : 49
 
 |id|file|
 |----|----|
@@ -50,3 +50,4 @@
 |10592|[10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json)|
 |10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
 |10681|[10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json)|
+|11004|[11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json)|

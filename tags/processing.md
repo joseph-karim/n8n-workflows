@@ -1,4 +1,4 @@
-# processing : 63
+# processing : 64
 
 |id|file|
 |----|----|
@@ -65,3 +65,4 @@
 |9933|[9933_Multi-Format_Document_Processing_for_RAG_Chatbot_with_Google_Drive___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9933_Multi-Format_Document_Processing_for_RAG_Chatbot_with_Google_Drive___Supabase.json)|
 |10029|[10029_Automate_Invoice_Processing_with_OCR__GPT-4___Salesforce_Opportunity_Creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10029_Automate_Invoice_Processing_with_OCR__GPT-4___Salesforce_Opportunity_Creation.json)|
 |10107|[10107_Automate_Payroll_Processing_with_GPT-4__Google_Sheets__PDF_Payslips___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10107_Automate_Payroll_Processing_with_GPT-4__Google_Sheets__PDF_Payslips___Slack_Alerts.json)|
+|10899|[10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json)|

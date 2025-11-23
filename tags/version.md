@@ -1,4 +1,4 @@
-# version : 25
+# version : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9792|[9792_Safely_Update_n8n_with_Version_Checks_and_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9792_Safely_Update_n8n_with_Version_Checks_and_Telegram_Notifications.json)|
 |10337|[10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json)|
 |10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|
+|11005|[11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11005_Automatic_Email_Notifications_for_n8n_Version_Releases_with_Gmail.json)|

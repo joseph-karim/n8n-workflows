@@ -1,4 +1,4 @@
-# prices : 22
+# prices : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |10115|[10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json)|
 |10154|[10154_Monitor_Competitor_Prices_with_Firecrawl__GPT-4.1__Sheets___Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10154_Monitor_Competitor_Prices_with_Firecrawl__GPT-4.1__Sheets___Gmail_Alerts.json)|
 |10379|[10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|10891|[10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json)|

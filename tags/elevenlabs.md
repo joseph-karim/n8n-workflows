@@ -1,4 +1,4 @@
-# elevenlabs : 51
+# elevenlabs : 54
 
 |id|file|
 |----|----|
@@ -53,3 +53,6 @@
 |10000|[10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json)|
 |10070|[10070_Create_Authentic_UGC_Video_Ads_with_GPT-4o__ElevenLabs___WaveSpeed_Lip-Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10070_Create_Authentic_UGC_Video_Ads_with_GPT-4o__ElevenLabs___WaveSpeed_Lip-Sync.json)|
 |10308|[10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json)|
+|10961|[10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json)|
+|10968|[10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json)|
+|11047|[11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json)|

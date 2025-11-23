@@ -1,4 +1,4 @@
-# weekly : 90
+# weekly : 92
 
 |id|file|
 |----|----|
@@ -92,3 +92,5 @@
 |10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
 |10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
+|10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
+|10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|

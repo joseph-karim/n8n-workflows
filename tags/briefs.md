@@ -1,4 +1,4 @@
-# briefs : 11
+# briefs : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |8514|[8514_Generate_AI-Powered_Interview_Briefs_from_Resumes_using_Google_Sheets___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8514_Generate_AI-Powered_Interview_Briefs_from_Resumes_using_Google_Sheets___GPT-4o.json)|
 |9410|[9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json)|
 |9446|[9446_Medical_Triage___Appointment_Automation_with_GPT-4_and_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9446_Medical_Triage___Appointment_Automation_with_GPT-4_and_Jotform.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|

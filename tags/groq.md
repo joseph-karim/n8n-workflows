@@ -1,4 +1,4 @@
-# groq : 23
+# groq : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |10037|[10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json)|
 |10287|[10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json)|
 |10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|

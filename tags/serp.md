@@ -1,4 +1,4 @@
-# serp : 15
+# serp : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |8917|[8917_SERP_Competitor_Research_with_Scrape.do_API___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8917_SERP_Competitor_Research_with_Scrape.do_API___Google_Sheets.json)|
 |10137|[10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json)|
 |10252|[10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|

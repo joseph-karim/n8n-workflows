@@ -1,4 +1,4 @@
-# generation : 181
+# generation : 187
 
 |id|file|
 |----|----|
@@ -183,3 +183,9 @@
 |10466|[10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json)|
 |10619|[10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json)|
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|
+|10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
+|10876|[10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json)|
+|11047|[11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json)|

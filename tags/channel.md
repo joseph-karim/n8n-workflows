@@ -1,4 +1,4 @@
-# channel : 90
+# channel : 93
 
 |id|file|
 |----|----|
@@ -91,4 +91,7 @@
 |10348|[10348_Monitor___Auto-Heal_AWS_EC2_Instances_with_Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10348_Monitor___Auto-Heal_AWS_EC2_Instances_with_Multi-Channel_Alerts.json)|
 |10378|[10378_Domain_Availability_Monitor_with_Porkbun__Google_Sheets___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10378_Domain_Availability_Monitor_with_Porkbun__Google_Sheets___Multi-Channel_Alerts.json)|
 |10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|
+|10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|
 |10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|

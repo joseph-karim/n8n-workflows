@@ -1,4 +1,4 @@
-# crm : 89
+# crm : 94
 
 |id|file|
 |----|----|
@@ -91,3 +91,8 @@
 |10328|[10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json)|
 |10634|[10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json)|
 |10726|[10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json)|
+|10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|
+|10840|[10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json)|
+|10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|
+|11011|[11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json)|

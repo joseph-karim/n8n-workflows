@@ -1,4 +1,4 @@
-# categorize : 19
+# categorize : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |8807|[8807_Categorize_Revolut_Transactions_Automatically_with_GPT-4_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8807_Categorize_Revolut_Transactions_Automatically_with_GPT-4_and_Supabase.json)|
 |9581|[9581_Categorize_Support_Emails_with_AI_and_Create_Tasks_in_Dart.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9581_Categorize_Support_Emails_with_AI_and_Create_Tasks_in_Dart.json)|
 |9983|[9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json)|
+|10952|[10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# deep : 13
+# deep : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |7160|[7160_Deep_Research_Agent_-_Automated_Research___Notion_Report_Builder.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7160_Deep_Research_Agent_-_Automated_Research___Notion_Report_Builder.json)|
 |7519|[7519_Extract___Summarize_LinkedIn_Profiles_with_Bright_Data__Google_Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7519_Extract___Summarize_LinkedIn_Profiles_with_Bright_Data__Google_Gemini___Supabase.json)|
 |7939|[7939_Deep_Research_Assistant_with_Perplexity_AI_and_Telegram_Citations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7939_Deep_Research_Assistant_with_Perplexity_AI_and_Telegram_Citations.json)|
+|10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|

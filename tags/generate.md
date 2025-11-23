@@ -1,4 +1,4 @@
-# generate : 627
+# generate : 639
 
 |id|file|
 |----|----|
@@ -629,3 +629,15 @@
 |10719|[10719_Generate_YouTube_Chapter_Timestamps_with_GPT_and_SupaData_Transcripts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10719_Generate_YouTube_Chapter_Timestamps_with_GPT_and_SupaData_Transcripts.json)|
 |10735|[10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json)|
 |10768|[10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json)|
+|10773|[10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
+|10867|[10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|10889|[10889_Auto_Generate_Descriptive_Node_Names_with_AI_for_Workflow_Readability.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10889_Auto_Generate_Descriptive_Node_Names_with_AI_for_Workflow_Readability.json)|
+|10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
+|10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
+|11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|
+|11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|
+|11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|
+|11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|

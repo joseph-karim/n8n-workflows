@@ -1,4 +1,4 @@
-# human : 48
+# human : 50
 
 |id|file|
 |----|----|
@@ -50,3 +50,5 @@
 |10321|[10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json)|
 |10344|[10344_Automate_Gmail_Responses_with_GPT_and_Human-in-the-loop_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10344_Automate_Gmail_Responses_with_GPT_and_Human-in-the-loop_Verification.json)|
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|
+|11050|[11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json)|

@@ -1,4 +1,4 @@
-# compliance : 29
+# compliance : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |10108|[10108_Tax_Deadline_Management___Compliance_Alerts_with_GPT-4__Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10108_Tax_Deadline_Management___Compliance_Alerts_with_GPT-4__Google_Sheets___Slack.json)|
 |10333|[10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json)|
 |10606|[10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json)|
+|10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|

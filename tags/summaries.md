@@ -1,4 +1,4 @@
-# summaries : 92
+# summaries : 94
 
 |id|file|
 |----|----|
@@ -94,3 +94,5 @@
 |10376|[10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json)|
 |10569|[10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json)|
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
+|10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|
+|10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|

@@ -1,4 +1,4 @@
-# audio : 51
+# audio : 52
 
 |id|file|
 |----|----|
@@ -53,3 +53,4 @@
 |10037|[10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json)|
 |10212|[10212_Generate_Funny_AI_Videos_with_Sora_2_and_Auto-Publish_to_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10212_Generate_Funny_AI_Videos_with_Sora_2_and_Auto-Publish_to_TikTok.json)|
 |10297|[10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json)|
+|10870|[10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json)|

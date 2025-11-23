@@ -1,4 +1,4 @@
-# professional : 20
+# professional : 22
 
 |id|file|
 |----|----|
@@ -22,3 +22,5 @@
 |9930|[9930_Auto-Generate___Polish_Professional_Bios_with_GPT-5_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9930_Auto-Generate___Polish_Professional_Bios_with_GPT-5_and_Google_Docs.json)|
 |10129|[10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json)|
 |10486|[10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json)|
+|11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|
+|11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|

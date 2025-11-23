@@ -1,4 +1,4 @@
-# music : 10
+# music : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |7793|[7793_Generate_AI_Music_with_the_ElevenLabs_API_and_upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7793_Generate_AI_Music_with_the_ElevenLabs_API_and_upload_to_Google_Drive.json)|
 |8884|[8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json)|
 |10005|[10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json)|
+|11047|[11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json)|

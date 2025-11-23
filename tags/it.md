@@ -1,4 +1,4 @@
-# it : 38
+# it : 39
 
 |id|file|
 |----|----|
@@ -40,3 +40,4 @@
 |8934|[8934_Generate_Comprehensive_Website_Audit_Report_with_GPT-4o-mini___Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8934_Generate_Comprehensive_Website_Audit_Report_with_GPT-4o-mini___Claude_Sonnet_4.5.json)|
 |10127|[10127_Classify___Process_IT_Requests_with_Jotform__Gemini_AI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10127_Classify___Process_IT_Requests_with_Jotform__Gemini_AI_and_Google_Workspace.json)|
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
+|10766|[10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json)|

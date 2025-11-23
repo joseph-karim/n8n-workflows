@@ -1,4 +1,4 @@
-# pdf : 149
+# pdf : 152
 
 |id|file|
 |----|----|
@@ -150,4 +150,7 @@
 |10577|[10577_Build_a_RAG_System_for_PDF_Documents_with_Google_Drive__Unstructured__and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10577_Build_a_RAG_System_for_PDF_Documents_with_Google_Drive__Unstructured__and_OpenAI.json)|
 |10606|[10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json)|
 |10650|[10650_Generate_and_Email_PDF_Payslips_from_Google_Sheets_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10650_Generate_and_Email_PDF_Payslips_from_Google_Sheets_with_Gmail.json)|
+|10766|[10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json)|
 |10768|[10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json)|
+|11016|[11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json)|
+|11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|

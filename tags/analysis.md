@@ -1,4 +1,4 @@
-# analysis : 297
+# analysis : 307
 
 |id|file|
 |----|----|
@@ -298,4 +298,14 @@
 |10630|[10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json)|
 |10648|[10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json)|
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
+|10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
 |10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|
+|10824|[10824_Automate_Instagram_Engagement___Sentiment_Analysis_with_GPT-4_and_Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10824_Automate_Instagram_Engagement___Sentiment_Analysis_with_GPT-4_and_Slack_Reports.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|
+|10997|[10997_Automate_X-Ray_Analysis_with_VLM-agent-1_and_Distribute_to_Gmail__Telegram___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10997_Automate_X-Ray_Analysis_with_VLM-agent-1_and_Distribute_to_Gmail__Telegram___Drive.json)|
+|11008|[11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json)|
+|11011|[11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json)|

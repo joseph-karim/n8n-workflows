@@ -1,4 +1,4 @@
-# rag : 163
+# rag : 165
 
 |id|file|
 |----|----|
@@ -165,3 +165,5 @@
 |10577|[10577_Build_a_RAG_System_for_PDF_Documents_with_Google_Drive__Unstructured__and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10577_Build_a_RAG_System_for_PDF_Documents_with_Google_Drive__Unstructured__and_OpenAI.json)|
 |10651|[10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json)|
 |10653|[10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|
+|10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|

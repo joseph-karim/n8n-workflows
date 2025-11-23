@@ -1,4 +1,4 @@
-# pinecone : 66
+# pinecone : 67
 
 |id|file|
 |----|----|
@@ -68,3 +68,4 @@
 |10484|[10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json)|
 |10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
 |10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|

@@ -1,4 +1,4 @@
-# support : 137
+# support : 138
 
 |id|file|
 |----|----|
@@ -139,3 +139,4 @@
 |10340|[10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json)|
 |10382|[10382_Automate_Airlines_Customer_Support_with_GPT-4_and_Question_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10382_Automate_Airlines_Customer_Support_with_GPT-4_and_Question_Classification.json)|
 |10716|[10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json)|
+|10773|[10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json)|

@@ -1,4 +1,4 @@
-# monitor : 155
+# monitor : 156
 
 |id|file|
 |----|----|
@@ -157,3 +157,4 @@
 |10476|[10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json)|
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
 |10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|

@@ -1,4 +1,4 @@
-# network : 6
+# network : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |7886|[7886_Monitor_TP-Link_Omada_Network_Disconnections_with_Gmail___Pushover.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7886_Monitor_TP-Link_Omada_Network_Disconnections_with_Gmail___Pushover.json)|
 |8650|[8650_Server___Network_Monitoring_Alerts_via_WhatsApp_using_HetrixTools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8650_Server___Network_Monitoring_Alerts_via_WhatsApp_using_HetrixTools.json)|
 |9089|[9089_Predict_Housing_Prices_with_a_Simple_Neural_Network.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9089_Predict_Housing_Prices_with_a_Simple_Neural_Network.json)|
+|11007|[11007_Network_Vulnerability_Scanner_with_NMAP_and_Automated_CVE_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11007_Network_Vulnerability_Scanner_with_NMAP_and_Automated_CVE_Reporting.json)|

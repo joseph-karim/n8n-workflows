@@ -1,4 +1,4 @@
-# travel : 20
+# travel : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
 |10522|[10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json)|
+|10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|

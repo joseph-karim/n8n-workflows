@@ -1,4 +1,4 @@
-# via : 467
+# via : 474
 
 |id|file|
 |----|----|
@@ -469,3 +469,10 @@
 |10468|[10468_Schedule_Meetings_via_WhatsApp_Using_Natural_Language_with_Gemini_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10468_Schedule_Meetings_via_WhatsApp_Using_Natural_Language_with_Gemini_AI___Google_Suite.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|
 |10726|[10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json)|
+|10737|[10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|
+|10864|[10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|

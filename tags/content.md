@@ -1,4 +1,4 @@
-# content : 282
+# content : 289
 
 |id|file|
 |----|----|
@@ -284,3 +284,10 @@
 |10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
 |10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
+|10729|[10729_Benchmark_Content_Safety_Guardrails_with_Automated_Test_Suite___Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10729_Benchmark_Content_Safety_Guardrails_with_Automated_Test_Suite___Reports.json)|
+|10737|[10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json)|
+|10808|[10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|

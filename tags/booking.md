@@ -1,4 +1,4 @@
-# booking : 40
+# booking : 42
 
 |id|file|
 |----|----|
@@ -42,3 +42,5 @@
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
 |10578|[10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|10905|[10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json)|

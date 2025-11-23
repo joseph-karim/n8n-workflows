@@ -1,4 +1,4 @@
-# distribution : 15
+# distribution : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |10102|[10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json)|
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
 |10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|
+|10820|[10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json)|

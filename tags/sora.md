@@ -1,4 +1,4 @@
-# sora : 16
+# sora : 18
 
 |id|file|
 |----|----|
@@ -18,3 +18,5 @@
 |10371|[10371_Create_AI_Nature_Videos_with_Sora_2__Kie_AI___Gemini__and_Send_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10371_Create_AI_Nature_Videos_with_Sora_2__Kie_AI___Gemini__and_Send_to_Telegram.json)|
 |10372|[10372_Create___Publish_Affiliate_Product_Videos_with_Sora-2__GPT___YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10372_Create___Publish_Affiliate_Product_Videos_with_Sora-2__GPT___YouTube.json)|
 |10514|[10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json)|
+|10861|[10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json)|
+|10867|[10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json)|

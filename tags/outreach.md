@@ -1,4 +1,4 @@
-# outreach : 78
+# outreach : 79
 
 |id|file|
 |----|----|
@@ -80,3 +80,4 @@
 |10143|[10143_Create_Personalized_Email_Outreach_with_AI__Telegram_Bot___Website_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10143_Create_Personalized_Email_Outreach_with_AI__Telegram_Bot___Website_Scraping.json)|
 |10282|[10282_Automate_Event_Follow-Ups_with_GPT-4__LinkedIn___HubSpot_Multi-Channel_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10282_Automate_Event_Follow-Ups_with_GPT-4__LinkedIn___HubSpot_Multi-Channel_Outreach.json)|
 |10561|[10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json)|
+|10827|[10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json)|

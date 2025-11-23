@@ -1,4 +1,4 @@
-# costs : 8
+# costs : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |6626|[6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json)|
 |7652|[7652_Estimate_Construction_Costs_from_Revit_IFC_Models_with_GPT-4_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7652_Estimate_Construction_Costs_from_Revit_IFC_Models_with_GPT-4_and_Claude.json)|
 |9497|[9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json)|
+|10887|[10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json)|

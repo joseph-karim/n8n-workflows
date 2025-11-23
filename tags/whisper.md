@@ -1,4 +1,4 @@
-# whisper : 25
+# whisper : 28
 
 |id|file|
 |----|----|
@@ -27,3 +27,6 @@
 |9867|[9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json)|
 |10037|[10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json)|
 |10187|[10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json)|
+|10806|[10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
+|10870|[10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json)|

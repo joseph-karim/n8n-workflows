@@ -1,4 +1,4 @@
-# budget : 9
+# budget : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8240|[8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json)|
 |8268|[8268_Expense_Logging_with_Telegram_and_Google_Sheets__Weekly_Summaries_and_Budget_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8268_Expense_Logging_with_Telegram_and_Google_Sheets__Weekly_Summaries_and_Budget_Alerts.json)|
 |10219|[10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json)|
+|10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|

@@ -1,4 +1,4 @@
-# facebook : 84
+# facebook : 86
 
 |id|file|
 |----|----|
@@ -86,3 +86,5 @@
 |10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|
 |10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
 |10557|[10557_Classify_and_Respond_to_Facebook_Messenger_Inquiries_with_GPT-4__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10557_Classify_and_Respond_to_Facebook_Messenger_Inquiries_with_GPT-4__Slack_and_Sheets.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|
+|10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|

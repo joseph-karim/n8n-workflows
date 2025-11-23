@@ -1,4 +1,4 @@
-# feedback : 57
+# feedback : 60
 
 |id|file|
 |----|----|
@@ -59,3 +59,6 @@
 |10113|[10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json)|
 |10218|[10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json)|
 |10384|[10384_Automate_Cancellation_Feedback_Collection_with_Stripe_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10384_Automate_Cancellation_Feedback_Collection_with_Stripe_and_Google_Sheets.json)|
+|10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|
+|11008|[11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json)|

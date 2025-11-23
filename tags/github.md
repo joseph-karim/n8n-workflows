@@ -1,4 +1,4 @@
-# github : 115
+# github : 116
 
 |id|file|
 |----|----|
@@ -117,3 +117,4 @@
 |10335|[10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json)|
 |10337|[10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json)|
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|

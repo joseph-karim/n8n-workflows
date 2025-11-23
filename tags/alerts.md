@@ -1,4 +1,4 @@
-# alerts : 298
+# alerts : 306
 
 |id|file|
 |----|----|
@@ -299,4 +299,12 @@
 |10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
 |10615|[10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json)|
 |10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|
+|10707|[10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json)|
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|10888|[10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json)|
+|10899|[10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json)|
+|10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|
+|11010|[11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json)|
+|11011|[11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json)|

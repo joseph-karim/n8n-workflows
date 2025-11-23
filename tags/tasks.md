@@ -1,4 +1,4 @@
-# tasks : 82
+# tasks : 83
 
 |id|file|
 |----|----|
@@ -84,3 +84,4 @@
 |10186|[10186_Email-to-Task_Automation_with_Mistral_AI__Gmail_Outlook_to_Google_Tasks_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10186_Email-to-Task_Automation_with_Mistral_AI__Gmail_Outlook_to_Google_Tasks_Microsoft_To_Do.json)|
 |10230|[10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json)|
 |10569|[10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json)|
+|10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|

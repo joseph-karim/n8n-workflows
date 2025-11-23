@@ -1,4 +1,4 @@
-# engagement : 28
+# engagement : 29
 
 |id|file|
 |----|----|
@@ -30,3 +30,4 @@
 |10218|[10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json)|
 |10328|[10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json)|
 |10568|[10568_Automate_Instagram_DMs___Engagement_with_Google_Sheets___Puppeteer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10568_Automate_Instagram_DMs___Engagement_with_Google_Sheets___Puppeteer.json)|
+|10824|[10824_Automate_Instagram_Engagement___Sentiment_Analysis_with_GPT-4_and_Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10824_Automate_Instagram_Engagement___Sentiment_Analysis_with_GPT-4_and_Slack_Reports.json)|

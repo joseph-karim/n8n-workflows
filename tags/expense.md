@@ -1,4 +1,4 @@
-# expense : 30
+# expense : 32
 
 |id|file|
 |----|----|
@@ -32,3 +32,5 @@
 |10109|[10109_Daily_Cash_Flow_Reports_with_Google_Sheets__Slack___Email_for_Finance_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10109_Daily_Cash_Flow_Reports_with_Google_Sheets__Slack___Email_for_Finance_Teams.json)|
 |10155|[10155_Multi-Modal_Expense_Tracking_with_Telegram__Gemini_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10155_Multi-Modal_Expense_Tracking_with_Telegram__Gemini_AI___Google_Sheets.json)|
 |10522|[10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json)|
+|10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|
+|10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|

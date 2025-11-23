@@ -1,4 +1,4 @@
-# confirmation : 11
+# confirmation : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |9526|[9526_Jotform_Automated_Commerce_Sync__Telegram_Confirmation___Zoho_Invoice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9526_Jotform_Automated_Commerce_Sync__Telegram_Confirmation___Zoho_Invoice.json)|
 |10104|[10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json)|
 |10169|[10169_Automate_Event_RSVPs_with_Email_Validation___Badge_Generation_using_VerifiEmail___HTMLCssToImage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10169_Automate_Event_RSVPs_with_Email_Validation___Badge_Generation_using_VerifiEmail___HTMLCssToImage.json)|
+|10905|[10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json)|

@@ -1,4 +1,4 @@
-# shopify : 76
+# shopify : 79
 
 |id|file|
 |----|----|
@@ -78,3 +78,6 @@
 |10008|[10008_Generate_Shopify_Product_Listings_from_Images_with_Gemini_AI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10008_Generate_Shopify_Product_Listings_from_Images_with_Gemini_AI_and_Airtable.json)|
 |10237|[10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json)|
 |10542|[10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json)|
+|10790|[10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|
+|10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|

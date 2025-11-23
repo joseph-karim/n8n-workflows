@@ -1,4 +1,4 @@
-# chats : 6
+# chats : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |5014|[5014_End_of_Turn_Detection_for_smoother_AI_agent_chats_with_Telegram_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5014_End_of_Turn_Detection_for_smoother_AI_agent_chats_with_Telegram_and_Gemini.json)|
 |8238|[8238_Implement_Intelligent_Message_Buffering_for_AI_Chats_with_Redis_and_GPT-4-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8238_Implement_Intelligent_Message_Buffering_for_AI_Chats_with_Redis_and_GPT-4-mini.json)|
 |8350|[8350_Create_a_Two-Way_WhatsApp___Telegram_Integration_for_10k__Customer_Support_Chats.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8350_Create_a_Two-Way_WhatsApp___Telegram_Integration_for_10k__Customer_Support_Chats.json)|
+|10773|[10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json)|

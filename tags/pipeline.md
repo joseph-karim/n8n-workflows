@@ -1,4 +1,4 @@
-# pipeline : 47
+# pipeline : 49
 
 |id|file|
 |----|----|
@@ -49,3 +49,5 @@
 |10045|[10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json)|
 |10090|[10090_Automate_RSS_to_Social_Media_Pipeline_with_AI__Airtable___GetLate_for_Multiple_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10090_Automate_RSS_to_Social_Media_Pipeline_with_AI__Airtable___GetLate_for_Multiple_Platforms.json)|
 |10292|[10292_Automate_Recruitment_with_GPT-4o-mini__CV_Screening_to_Interview_Scheduling_in_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10292_Automate_Recruitment_with_GPT-4o-mini__CV_Screening_to_Interview_Scheduling_in_Airtable.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|

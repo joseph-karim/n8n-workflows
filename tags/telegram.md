@@ -1,4 +1,4 @@
-# telegram : 677
+# telegram : 689
 
 |id|file|
 |----|----|
@@ -679,3 +679,15 @@
 |10635|[10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json)|
 |10665|[10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json)|
 |10671|[10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json)|
+|10713|[10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10713_Telegram_to_Google_Drive__Auto_Upload___Track_Videos_with_Gemini_AI_Assistant.json)|
+|10737|[10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|10806|[10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json)|
+|10815|[10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json)|
+|10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
+|10961|[10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json)|
+|10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|
+|10997|[10997_Automate_X-Ray_Analysis_with_VLM-agent-1_and_Distribute_to_Gmail__Telegram___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10997_Automate_X-Ray_Analysis_with_VLM-agent-1_and_Distribute_to_Gmail__Telegram___Drive.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|
+|11010|[11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json)|

@@ -1,4 +1,4 @@
-# workspace : 30
+# workspace : 32
 
 |id|file|
 |----|----|
@@ -32,3 +32,5 @@
 |10127|[10127_Classify___Process_IT_Requests_with_Jotform__Gemini_AI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10127_Classify___Process_IT_Requests_with_Jotform__Gemini_AI_and_Google_Workspace.json)|
 |10397|[10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json)|
 |10501|[10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json)|
+|10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
+|11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|

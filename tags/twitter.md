@@ -1,4 +1,4 @@
-# twitter : 68
+# twitter : 70
 
 |id|file|
 |----|----|
@@ -70,3 +70,5 @@
 |10425|[10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json)|
 |10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|
 |10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
+|10781|[10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|

@@ -1,4 +1,4 @@
-# analyze : 127
+# analyze : 131
 
 |id|file|
 |----|----|
@@ -129,3 +129,7 @@
 |10218|[10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json)|
 |10396|[10396_Analyze___Publish_GCE_O-Level_Math_Predictions_with_Perplexity_AI_to_WordPress___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10396_Analyze___Publish_GCE_O-Level_Math_Predictions_with_Perplexity_AI_to_WordPress___Slack.json)|
 |10427|[10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json)|
+|10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|
+|10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|
+|11011|[11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json)|

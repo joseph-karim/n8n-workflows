@@ -1,4 +1,4 @@
-# vector : 76
+# vector : 79
 
 |id|file|
 |----|----|
@@ -78,3 +78,6 @@
 |10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|
 |10651|[10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json)|
 |10653|[10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10887|[10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|

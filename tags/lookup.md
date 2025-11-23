@@ -1,4 +1,4 @@
-# lookup : 20
+# lookup : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |8108|[8108_Quick_HubSpot_Contact_Lookup_in_Slack_for_Sales___Support_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8108_Quick_HubSpot_Contact_Lookup_in_Slack_for_Sales___Support_Teams.json)|
 |8672|[8672_Generate_Domain_Insights_with_WHOIS_Lookup_and_GPT-5-Nano_via_RapidAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8672_Generate_Domain_Insights_with_WHOIS_Lookup_and_GPT-5-Nano_via_RapidAPI.json)|
 |10200|[10200_Perform_Multi-type_DNS_Lookups_with_Google_s_Free_Public_DNS_Service.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10200_Perform_Multi-type_DNS_Lookups_with_Google_s_Free_Public_DNS_Service.json)|
+|10840|[10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json)|

@@ -1,4 +1,4 @@
-# transcripts : 30
+# transcripts : 32
 
 |id|file|
 |----|----|
@@ -32,3 +32,5 @@
 |9801|[9801_Summarize_Meeting_Transcripts_with_GPT-4___Sentiment_Analysis_for_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9801_Summarize_Meeting_Transcripts_with_GPT-4___Sentiment_Analysis_for_Gmail.json)|
 |9929|[9929_Process_Meeting_Transcripts_into_Notion_Notes___Tasks_with_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9929_Process_Meeting_Transcripts_into_Notion_Notes___Tasks_with_AI_and_Google_Drive.json)|
 |10719|[10719_Generate_YouTube_Chapter_Timestamps_with_GPT_and_SupaData_Transcripts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10719_Generate_YouTube_Chapter_Timestamps_with_GPT_and_SupaData_Transcripts.json)|
+|10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|
+|10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|

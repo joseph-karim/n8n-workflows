@@ -1,4 +1,4 @@
-# pdfs : 39
+# pdfs : 40
 
 |id|file|
 |----|----|
@@ -41,3 +41,4 @@
 |9261|[9261_Extract_Invoice_Data_from_PDFs_with_Gemini_AI_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9261_Extract_Invoice_Data_from_PDFs_with_Gemini_AI_to_Google_Sheets.json)|
 |9963|[9963_Extract_Structured_Invoice_Data_from_JotForm_PDFs_with_GPT-4.1-mini___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9963_Extract_Structured_Invoice_Data_from_JotForm_PDFs_with_GPT-4.1-mini___Sheets.json)|
 |10243|[10243_Generate___Send_Quotation_PDFs_from_Pipedrive_to_DottedSign_for_E-Signature.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10243_Generate___Send_Quotation_PDFs_from_Pipedrive_to_DottedSign_for_E-Signature.json)|
+|10864|[10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json)|

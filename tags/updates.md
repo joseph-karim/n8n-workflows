@@ -1,4 +1,4 @@
-# updates : 114
+# updates : 115
 
 |id|file|
 |----|----|
@@ -116,3 +116,4 @@
 |9515|[9515_Sync_Attio_CRM_with_Jotform___Slack_for_Deal_Updates___Sales_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9515_Sync_Attio_CRM_with_Jotform___Slack_for_Deal_Updates___Sales_Alerts.json)|
 |9880|[9880_WooCommerce_Order_Updates_to_Customers_via_WhatsApp_with_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9880_WooCommerce_Order_Updates_to_Customers_via_WhatsApp_with_Rapiwa_API.json)|
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
+|10733|[10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json)|

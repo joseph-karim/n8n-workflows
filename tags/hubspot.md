@@ -1,4 +1,4 @@
-# hubspot : 102
+# hubspot : 104
 
 |id|file|
 |----|----|
@@ -104,3 +104,5 @@
 |10203|[10203_Smart_Lead_Qualification___Routing_from_Typeform_to_HubSpot_with_Data_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10203_Smart_Lead_Qualification___Routing_from_Typeform_to_HubSpot_with_Data_Enrichment.json)|
 |10282|[10282_Automate_Event_Follow-Ups_with_GPT-4__LinkedIn___HubSpot_Multi-Channel_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10282_Automate_Event_Follow-Ups_with_GPT-4__LinkedIn___HubSpot_Multi-Channel_Outreach.json)|
 |10398|[10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json)|
+|10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
+|10866|[10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json)|

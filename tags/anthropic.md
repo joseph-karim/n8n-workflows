@@ -1,4 +1,4 @@
-# anthropic : 13
+# anthropic : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |10164|[10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json)|
 |10266|[10266_Generate_Personalized_Cold_Emails_with_Anthropic__GPT-4___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10266_Generate_Personalized_Cold_Emails_with_Anthropic__GPT-4___Google_Sheets.json)|
 |10287|[10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json)|
+|11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|

@@ -1,4 +1,4 @@
-# workflow : 421
+# workflow : 429
 
 |id|file|
 |----|----|
@@ -423,3 +423,11 @@
 |10391|[10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json)|
 |10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
 |10755|[10755_Simple_error_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10755_Simple_error_workflow.json)|
+|10820|[10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json)|
+|10825|[10825_Automate_Task_Deadline_Reminders_with_Google_Sheets_and_Gmail__Today_3-Day_7-Day.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10825_Automate_Task_Deadline_Reminders_with_Google_Sheets_and_Gmail__Today_3-Day_7-Day.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|
+|10866|[10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json)|
+|10889|[10889_Auto_Generate_Descriptive_Node_Names_with_AI_for_Workflow_Readability.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10889_Auto_Generate_Descriptive_Node_Names_with_AI_for_Workflow_Readability.json)|
+|10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|
+|11008|[11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json)|

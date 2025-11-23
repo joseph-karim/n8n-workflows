@@ -1,4 +1,4 @@
-# intelligence : 49
+# intelligence : 50
 
 |id|file|
 |----|----|
@@ -51,3 +51,4 @@
 |10394|[10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json)|
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
 |10692|[10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json)|
+|10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|

@@ -1,4 +1,4 @@
-# review : 49
+# review : 50
 
 |id|file|
 |----|----|
@@ -51,3 +51,4 @@
 |10486|[10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json)|
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
 |10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|

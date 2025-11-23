@@ -1,4 +1,4 @@
-# slack : 459
+# slack : 471
 
 |id|file|
 |----|----|
@@ -461,3 +461,15 @@
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
 |10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|
 |10745|[10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json)|
+|10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|
+|10824|[10824_Automate_Instagram_Engagement___Sentiment_Analysis_with_GPT-4_and_Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10824_Automate_Instagram_Engagement___Sentiment_Analysis_with_GPT-4_and_Slack_Reports.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|10888|[10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10888_Predict_F1_Race_Winners_with_OpenAI_GPT-4o__Historical_Data___Slack_Alerts.json)|
+|10899|[10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|
+|10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|
+|10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|
+|10994|[10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json)|
+|11004|[11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json)|
+|11008|[11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11008_Customer_Feedback_Automation_with_Sentiment_Analysis_using_GPT-4.1__Jira___Slack.json)|

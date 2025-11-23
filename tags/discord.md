@@ -1,4 +1,4 @@
-# discord : 77
+# discord : 78
 
 |id|file|
 |----|----|
@@ -79,3 +79,4 @@
 |10246|[10246_Generate_AI-Curated_Reddit_Digests_for_Telegram__Discord___Slack_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10246_Generate_AI-Curated_Reddit_Digests_for_Telegram__Discord___Slack_with_Gemini.json)|
 |10394|[10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json)|
 |10400|[10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json)|
+|10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|

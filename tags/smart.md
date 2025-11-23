@@ -1,4 +1,4 @@
-# smart : 115
+# smart : 116
 
 |id|file|
 |----|----|
@@ -117,3 +117,4 @@
 |10531|[10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json)|
 |10648|[10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json)|
 |10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|

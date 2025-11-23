@@ -1,4 +1,4 @@
-# fast : 8
+# fast : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |9145|[9145_Narrative_Chaining__AI-Generated_Video_Scene_Extensions_with_Veo3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9145_Narrative_Chaining__AI-Generated_Video_Scene_Extensions_with_Veo3.json)|
 |9764|[9764_Fast-track_CV_screening_with_AI_analysis_from_Gmail_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9764_Fast-track_CV_screening_with_AI_analysis_from_Gmail_to_Slack_and_Google_Sheets.json)|
 |10045|[10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|

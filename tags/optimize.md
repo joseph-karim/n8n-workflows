@@ -1,4 +1,4 @@
-# optimize : 13
+# optimize : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |9430|[9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json)|
 |9593|[9593_Optimize_Technical_Manuals_for_RAG___Agents_with_Blockify_IdeaBlocks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9593_Optimize_Technical_Manuals_for_RAG___Agents_with_Blockify_IdeaBlocks.json)|
 |10201|[10201_Optimize_Resumes___Generate_Cover_Letters_with_Gemini_AI_and_PDF.co.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10201_Optimize_Resumes___Generate_Cover_Letters_with_Gemini_AI_and_PDF.co.json)|
+|10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|

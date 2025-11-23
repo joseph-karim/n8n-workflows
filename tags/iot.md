@@ -1,4 +1,4 @@
-# iot : 5
+# iot : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |4211|[4211_IOT_device_control_with_MQTT_and_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4211_IOT_device_control_with_MQTT_and_webhook.json)|
 |6930|[6930_Smart_IoT_Device_Health_Monitor_with_ScrapeGraphAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6930_Smart_IoT_Device_Health_Monitor_with_ScrapeGraphAI_and_Telegram.json)|
 |7248|[7248_Clean_and_Log_IoT_Sensor_Data_to_InfluxDB__Webhook___Function___HTTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7248_Clean_and_Log_IoT_Sensor_Data_to_InfluxDB__Webhook___Function___HTTP.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|

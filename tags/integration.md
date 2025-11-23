@@ -1,4 +1,4 @@
-# integration : 145
+# integration : 147
 
 |id|file|
 |----|----|
@@ -147,3 +147,5 @@
 |10388|[10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json)|
 |10531|[10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json)|
 |10738|[10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json)|
+|10861|[10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json)|
+|10994|[10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json)|

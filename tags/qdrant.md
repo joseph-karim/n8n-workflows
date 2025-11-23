@@ -1,4 +1,4 @@
-# qdrant : 40
+# qdrant : 41
 
 |id|file|
 |----|----|
@@ -42,3 +42,4 @@
 |8944|[8944_My_solution_for_the__Agentic_Arena_Community_Contest___RAG__Qdrant__Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8944_My_solution_for_the__Agentic_Arena_Community_Contest___RAG__Qdrant__Mistral_OCR.json)|
 |10096|[10096_Document_RAG___Chat_Agent__Google_Drive_to_Qdrant_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10096_Document_RAG___Chat_Agent__Google_Drive_to_Qdrant_with_Mistral_OCR.json)|
 |10241|[10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json)|
+|10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|

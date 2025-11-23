@@ -1,4 +1,4 @@
-# streamline : 7
+# streamline : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |9110|[9110_Automate_Paid_Zoom_Meetings_with_Stripe__Gmail___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9110_Automate_Paid_Zoom_Meetings_with_Stripe__Gmail___Google_Sheets_Tracking.json)|
 |9825|[9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json)|
 |10072|[10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json)|
+|10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|

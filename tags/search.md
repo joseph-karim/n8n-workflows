@@ -1,4 +1,4 @@
-# search : 165
+# search : 168
 
 |id|file|
 |----|----|
@@ -167,3 +167,6 @@
 |10648|[10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json)|
 |10653|[10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json)|
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
+|10778|[10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|

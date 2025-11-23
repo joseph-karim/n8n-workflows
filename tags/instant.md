@@ -1,4 +1,4 @@
-# instant : 15
+# instant : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |9611|[9611_AI-Powered_NDA_Review___Instant_Alert_System_-_Jotform__Gemini__Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9611_AI-Powered_NDA_Review___Instant_Alert_System_-_Jotform__Gemini__Telegram.json)|
 |9941|[9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json)|
 |10634|[10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|

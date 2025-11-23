@@ -1,4 +1,4 @@
-# notes : 33
+# notes : 35
 
 |id|file|
 |----|----|
@@ -35,3 +35,5 @@
 |9929|[9929_Process_Meeting_Transcripts_into_Notion_Notes___Tasks_with_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9929_Process_Meeting_Transcripts_into_Notion_Notes___Tasks_with_AI_and_Google_Drive.json)|
 |10236|[10236_AI-Powered_n8n_Release_Notes_Summary_Notifications_via_Gmail_with_GPT-5-Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10236_AI-Powered_n8n_Release_Notes_Summary_Notifications_via_Gmail_with_GPT-5-Mini.json)|
 |10332|[10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json)|
+|10806|[10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|

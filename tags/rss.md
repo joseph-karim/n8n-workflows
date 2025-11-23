@@ -1,4 +1,4 @@
-# rss : 88
+# rss : 90
 
 |id|file|
 |----|----|
@@ -90,3 +90,5 @@
 |10196|[10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json)|
 |10311|[10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json)|
 |10424|[10424_Track_Government_Grants_with_OpenRouter_AI__RSS_Feeds__Google_Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10424_Track_Government_Grants_with_OpenRouter_AI__RSS_Feeds__Google_Sheets___Gmail.json)|
+|10961|[10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10961_EU_Sustainability_News_Curation_with_RSS__GPT__Gmail__ElevenLabs___Telegram.json)|
+|10968|[10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# planner : 12
+# planner : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |8241|[8241_Weekly_Meal_Planner__AI-Generated_Grocery_Lists_with_Price_Comparison_to_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8241_Weekly_Meal_Planner__AI-Generated_Grocery_Lists_with_Price_Comparison_to_WhatsApp.json)|
 |10223|[10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json)|
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
+|10967|[10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json)|

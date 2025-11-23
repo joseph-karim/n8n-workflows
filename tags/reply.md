@@ -1,4 +1,4 @@
-# reply : 41
+# reply : 42
 
 |id|file|
 |----|----|
@@ -43,3 +43,4 @@
 |10320|[10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json)|
 |10321|[10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json)|
 |10583|[10583_Classify_and_Auto-Reply_to_Emails_with_Outlook_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10583_Classify_and_Auto-Reply_to_Emails_with_Outlook_and_GPT-4.json)|
+|10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|

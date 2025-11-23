@@ -1,4 +1,4 @@
-# agents : 98
+# agents : 99
 
 |id|file|
 |----|----|
@@ -100,3 +100,4 @@
 |9438|[9438_Create_Universal_OpenAI-Compatible_API_Endpoints_for_Multiple_AI_Workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9438_Create_Universal_OpenAI-Compatible_API_Endpoints_for_Multiple_AI_Workflows.json)|
 |9593|[9593_Optimize_Technical_Manuals_for_RAG___Agents_with_Blockify_IdeaBlocks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9593_Optimize_Technical_Manuals_for_RAG___Agents_with_Blockify_IdeaBlocks.json)|
 |10524|[10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json)|
+|10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|

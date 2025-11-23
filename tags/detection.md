@@ -1,4 +1,4 @@
-# detection : 38
+# detection : 39
 
 |id|file|
 |----|----|
@@ -40,3 +40,4 @@
 |9830|[9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json)|
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
 |10337|[10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|

@@ -1,4 +1,4 @@
-# bigquery : 9
+# bigquery : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8220|[8220_Answer_Questions_About_Documentation_with_BigQuery_RAG_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8220_Answer_Questions_About_Documentation_with_BigQuery_RAG_and_OpenAI.json)|
 |9368|[9368_Automate_Monthly_CrUX_Report_Transfer_from_BigQuery_to_NocoDB_with_Data_Cleanup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9368_Automate_Monthly_CrUX_Report_Transfer_from_BigQuery_to_NocoDB_with_Data_Cleanup.json)|
 |9988|[9988_Sync_Multi-Bank_Balance_Data_to_BigQuery_using_Plaid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9988_Sync_Multi-Bank_Balance_Data_to_BigQuery_using_Plaid.json)|
+|11010|[11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json)|

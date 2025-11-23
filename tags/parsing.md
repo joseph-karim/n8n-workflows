@@ -1,4 +1,4 @@
-# parsing : 15
+# parsing : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |9034|[9034_Automate_Lead_Generation_with_Apollo__AI_Parsing__and_Timed_Email_Follow-ups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9034_Automate_Lead_Generation_with_Apollo__AI_Parsing__and_Timed_Email_Follow-ups.json)|
 |9579|[9579_Automate_Employee_Trip_Expense_Processing_with_Jotform__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9579_Automate_Employee_Trip_Expense_Processing_with_Jotform__OpenAI_and_Google_Sheets.json)|
 |10607|[10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json)|
+|10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|

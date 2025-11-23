@@ -1,4 +1,4 @@
-# manager : 34
+# manager : 35
 
 |id|file|
 |----|----|
@@ -36,3 +36,4 @@
 |10347|[10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json)|
 |10388|[10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json)|
 |10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|
+|10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|

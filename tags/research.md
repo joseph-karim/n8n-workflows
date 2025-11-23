@@ -1,4 +1,4 @@
-# research : 146
+# research : 147
 
 |id|file|
 |----|----|
@@ -148,3 +148,4 @@
 |10349|[10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json)|
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
 |10692|[10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|

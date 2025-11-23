@@ -1,4 +1,4 @@
-# product : 120
+# product : 124
 
 |id|file|
 |----|----|
@@ -122,3 +122,7 @@
 |10393|[10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json)|
 |10426|[10426_PartnerStack_Impact___WooCommerce_Product_Creation_with_GPT-4___AI_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10426_PartnerStack_Impact___WooCommerce_Product_Creation_with_GPT-4___AI_Images.json)|
 |10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
+|10791|[10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|

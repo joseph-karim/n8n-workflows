@@ -1,4 +1,4 @@
-# linkedin : 254
+# linkedin : 257
 
 |id|file|
 |----|----|
@@ -255,4 +255,7 @@
 |10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
 |10635|[10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json)|
 |10668|[10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json)|
+|10737|[10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json)|
 |10738|[10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json)|
+|10750|[10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json)|
+|10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|

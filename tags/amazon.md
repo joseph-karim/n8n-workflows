@@ -1,4 +1,4 @@
-# amazon : 24
+# amazon : 27
 
 |id|file|
 |----|----|
@@ -26,3 +26,6 @@
 |8678|[8678_Extract_Amazon_Product_Data_with_Scrape.do__GPT-4___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8678_Extract_Amazon_Product_Data_with_Scrape.do__GPT-4___Google_Sheets.json)|
 |10115|[10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json)|
 |10516|[10516_Automatically_Update_Amazon_Transaction_Memos_in_YNAB_with_AI___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10516_Automatically_Update_Amazon_Transaction_Memos_in_YNAB_with_AI___Gmail.json)|
+|10733|[10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json)|
+|10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
+|11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|

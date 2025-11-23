@@ -1,4 +1,4 @@
-# multi : 225
+# multi : 229
 
 |id|file|
 |----|----|
@@ -226,4 +226,8 @@
 |10615|[10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json)|
 |10692|[10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json)|
 |10735|[10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json)|
+|10759|[10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10759_Real-time_IoT_Anomaly_Detection_with_MQTT__GPT-4o-mini_AI__and_Multi-channel_Alerts.json)|
 |10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|
+|10867|[10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|

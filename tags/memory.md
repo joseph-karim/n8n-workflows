@@ -1,4 +1,4 @@
-# memory : 38
+# memory : 40
 
 |id|file|
 |----|----|
@@ -40,3 +40,5 @@
 |8866|[8866_Voice-Driven_AI_Assistant_using_VAPI_and_GPT-4.1-mini_with_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8866_Voice-Driven_AI_Assistant_using_VAPI_and_GPT-4.1-mini_with_Memory.json)|
 |9970|[9970_Automated_Email_Responses_with_GPT-4O___Supabase_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9970_Automated_Email_Responses_with_GPT-4O___Supabase_Conversation_Memory.json)|
 |9981|[9981_Voice___Text_Telegram_Assistant_with_GPT-4.1-mini_and_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9981_Voice___Text_Telegram_Assistant_with_GPT-4.1-mini_and_Conversation_Memory.json)|
+|10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|
+|10840|[10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json)|

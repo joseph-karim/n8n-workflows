@@ -1,4 +1,4 @@
-# sync : 151
+# sync : 154
 
 |id|file|
 |----|----|
@@ -152,4 +152,7 @@
 |10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|
 |10376|[10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json)|
 |10558|[10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json)|
+|10733|[10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json)|
 |10749|[10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|
+|10866|[10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json)|

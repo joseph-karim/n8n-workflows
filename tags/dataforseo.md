@@ -1,4 +1,4 @@
-# dataforseo : 12
+# dataforseo : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |9502|[9502_Create_AI-Powered_SEO_Audit_Reports_with_DataForSEO_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9502_Create_AI-Powered_SEO_Audit_Reports_with_DataForSEO_and_Claude.json)|
 |10136|[10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json)|
 |10137|[10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json)|
+|10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|

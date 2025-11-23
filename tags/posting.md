@@ -1,4 +1,4 @@
-# posting : 32
+# posting : 33
 
 |id|file|
 |----|----|
@@ -34,3 +34,4 @@
 |9561|[9561_Automate_Product_Ad_Creation_with_Telegram__Fal.AI___Facebook_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9561_Automate_Product_Ad_Creation_with_Telegram__Fal.AI___Facebook_Posting.json)|
 |9886|[9886_Automated_AI_News_Curation_and_LinkedIn_Posting_with_GPT-5_and_Firebase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9886_Automated_AI_News_Curation_and_LinkedIn_Posting_with_GPT-5_and_Firebase.json)|
 |9892|[9892_Automate_Job_Posting_Across_Multiple_Boards_with_Google_Sheets_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9892_Automate_Job_Posting_Across_Multiple_Boards_with_Google_Sheets_and_BrowserAct.json)|
+|10817|[10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10817_Automate_Shopify_Product_Posting_to_Social_Media_with_GPT-4.1-Mini___Data_Tracking.json)|

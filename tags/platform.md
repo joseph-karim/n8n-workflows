@@ -1,4 +1,4 @@
-# platform : 50
+# platform : 52
 
 |id|file|
 |----|----|
@@ -52,3 +52,5 @@
 |10358|[10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json)|
 |10692|[10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json)|
 |10735|[10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json)|
+|10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|
+|10867|[10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10867_Auto-Generate_AI_Videos_with_Gemini__KIE_AI_Sora-2___Blotato__Multi-Platform.json)|

@@ -1,4 +1,4 @@
-# agent : 392
+# agent : 395
 
 |id|file|
 |----|----|
@@ -394,3 +394,6 @@
 |10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
 |10561|[10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json)|
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
+|10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
+|10997|[10997_Automate_X-Ray_Analysis_with_VLM-agent-1_and_Distribute_to_Gmail__Telegram___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10997_Automate_X-Ray_Analysis_with_VLM-agent-1_and_Distribute_to_Gmail__Telegram___Drive.json)|
+|11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|

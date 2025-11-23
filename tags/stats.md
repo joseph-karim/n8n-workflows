@@ -1,4 +1,4 @@
-# stats : 9
+# stats : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |5688|[5688_Send_Weekly_Engagement_Stats___Raffle_Updates_via_WhatsApp_using_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5688_Send_Weekly_Engagement_Stats___Raffle_Updates_via_WhatsApp_using_Airtable.json)|
 |7655|[7655_Create_a_Witty_Telegram_Bot_with_AI-Powered_Humor__Roasts___Stats_using_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7655_Create_a_Witty_Telegram_Bot_with_AI-Powered_Humor__Roasts___Stats_using_OpenRouter.json)|
 |8362|[8362_Automate_Daily_Signup_Stats_from_PostgreSQL_to_Slack__Teams___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8362_Automate_Daily_Signup_Stats_from_PostgreSQL_to_Slack__Teams___Telegram.json)|
+|10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|

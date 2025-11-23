@@ -1,4 +1,4 @@
-# highlevel : 10
+# highlevel : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |10150|[10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json)|
 |10152|[10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json)|
 |10327|[10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|

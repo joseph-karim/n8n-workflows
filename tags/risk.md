@@ -1,4 +1,4 @@
-# risk : 18
+# risk : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |9309|[9309_Employee_Attrition_Risk_Detection___HR_Alerts_using_Azure_OpenAI_GPT-4o-mini___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9309_Employee_Attrition_Risk_Detection___HR_Alerts_using_Azure_OpenAI_GPT-4o-mini___Gmail.json)|
 |9832|[9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json)|
 |9835|[9835_Dependency_Update_Risk_Analysis_with_GPT-4o__Slack__Jira___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9835_Dependency_Update_Risk_Analysis_with_GPT-4o__Slack__Jira___Google_Sheets.json)|
+|10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|

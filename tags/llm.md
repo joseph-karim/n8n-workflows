@@ -1,4 +1,4 @@
-# llm : 53
+# llm : 54
 
 |id|file|
 |----|----|
@@ -55,3 +55,4 @@
 |10009|[10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json)|
 |10267|[10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json)|
 |10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|
+|10887|[10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json)|

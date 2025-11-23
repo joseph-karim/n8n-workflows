@@ -1,4 +1,4 @@
-# contact : 60
+# contact : 61
 
 |id|file|
 |----|----|
@@ -62,3 +62,4 @@
 |9212|[9212_Extract_Contact_Information_from_Business_Cards_with_Mistral_OCR_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9212_Extract_Contact_Information_from_Business_Cards_with_Mistral_OCR_and_GPT-4o-mini.json)|
 |9364|[9364_Inserting_Brevo_Contact_Reports_into_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9364_Inserting_Brevo_Contact_Reports_into_NocoDB.json)|
 |9699|[9699_AI-Powered_Contact_Intelligence___Enrichment_with_OpenAI_Anthropic_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9699_AI-Powered_Contact_Intelligence___Enrichment_with_OpenAI_Anthropic_and_Supabase.json)|
+|10778|[10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json)|

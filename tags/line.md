@@ -1,4 +1,4 @@
-# line : 27
+# line : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |7228|[7228_Log_Food_Calories_from_Images_to_Google_Sheets_using_LINE_and_OpenAI_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7228_Log_Food_Calories_from_Images_to_Google_Sheets_using_LINE_and_OpenAI_Vision.json)|
 |7508|[7508_AI_Voice___Text_Note-Taking_with_LINE_Messaging__Supabase_Vector_DB___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7508_AI_Voice___Text_Note-Taking_with_LINE_Messaging__Supabase_Vector_DB___Gmail.json)|
 |7535|[7535_AI_Hairstyle_Preview_Generator_with_OpenAI_and_LINE_Group_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7535_AI_Hairstyle_Preview_Generator_with_OpenAI_and_LINE_Group_Sharing.json)|
+|10915|[10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json)|
+|10950|[10950_Automate_LINE___Google_Account_Linking_with_OAuth2_Authentication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10950_Automate_LINE___Google_Account_Linking_with_OAuth2_Authentication.json)|

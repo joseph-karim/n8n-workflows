@@ -1,4 +1,4 @@
-# order : 45
+# order : 46
 
 |id|file|
 |----|----|
@@ -47,3 +47,4 @@
 |9705|[9705_Auto-reply_to__Where_Is_My_Order___Emails_with_Shopify__Gmail_and_OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9705_Auto-reply_to__Where_Is_My_Order___Emails_with_Shopify__Gmail_and_OpenRouter_AI.json)|
 |9880|[9880_WooCommerce_Order_Updates_to_Customers_via_WhatsApp_with_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9880_WooCommerce_Order_Updates_to_Customers_via_WhatsApp_with_Rapiwa_API.json)|
 |10237|[10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json)|
+|10899|[10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json)|

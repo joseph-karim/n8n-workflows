@@ -1,4 +1,4 @@
-# bot : 204
+# bot : 208
 
 |id|file|
 |----|----|
@@ -206,3 +206,7 @@
 |10635|[10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json)|
 |10681|[10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json)|
 |10716|[10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json)|
+|10737|[10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10737_Create_LinkedIn_Content_with_GPT-4_via_Telegram_Bot___Approval_Loop.json)|
+|10815|[10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json)|
+|10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
+|10994|[10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json)|

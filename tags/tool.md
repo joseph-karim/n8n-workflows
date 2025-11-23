@@ -1,4 +1,4 @@
-# tool : 188
+# tool : 189
 
 |id|file|
 |----|----|
@@ -190,3 +190,4 @@
 |7842|[7842_QuickBooks_Online_MCP_Server_-_Add_QuickBooks_tool_to_any_AI__Like_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7842_QuickBooks_Online_MCP_Server_-_Add_QuickBooks_tool_to_any_AI__Like_Claude.json)|
 |8227|[8227_Learn_Evaluate_tool._Tutorial_for_Beginners_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8227_Learn_Evaluate_tool._Tutorial_for_Beginners_with_Gemini_and_Google_Sheets.json)|
 |9974|[9974_Automate_HVAC_Service_Scheduling_with_AI_Agent__Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9974_Automate_HVAC_Service_Scheduling_with_AI_Agent__Google_Calendar_and_Gmail.json)|
+|10766|[10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json)|

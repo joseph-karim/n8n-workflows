@@ -1,4 +1,4 @@
-# system : 239
+# system : 241
 
 |id|file|
 |----|----|
@@ -241,3 +241,5 @@
 |10583|[10583_Classify_and_Auto-Reply_to_Emails_with_Outlook_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10583_Classify_and_Auto-Reply_to_Emails_with_Outlook_and_GPT-4.json)|
 |10688|[10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json)|
 |10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
+|10891|[10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json)|
+|10905|[10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json)|

@@ -1,4 +1,4 @@
-# api : 378
+# api : 386
 
 |id|file|
 |----|----|
@@ -379,4 +379,12 @@
 |10681|[10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json)|
 |10716|[10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10716_WhatsApp_Customer_Support_Bot_with_GPT-4_Mini__Google_Sheets___Rapiwa_API.json)|
 |10725|[10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json)|
+|10740|[10740_Automate_External_Attack_Surface_Mapping_with_Shodan_API_and_DNS_Lookups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10740_Automate_External_Attack_Surface_Mapping_with_Shodan_API_and_DNS_Lookups.json)|
 |10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|
+|10781|[10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10781_Scheduled_Auto-replies_to_Targeted_Tweets_Using_X__Twitter__API.json)|
+|10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
+|10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
+|10861|[10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json)|
+|10876|[10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json)|
+|10982|[10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json)|
+|11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|

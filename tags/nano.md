@@ -1,4 +1,4 @@
-# nano : 44
+# nano : 45
 
 |id|file|
 |----|----|
@@ -46,3 +46,4 @@
 |10250|[10250_Create_Stylized_Product_Photography_with_Airtable___Gemini_Nano_Banana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10250_Create_Stylized_Product_Photography_with_Airtable___Gemini_Nano_Banana.json)|
 |10310|[10310_Automate_Peer_Review_Assignments_with_GPT-4-nano__Slack_and_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10310_Automate_Peer_Review_Assignments_with_GPT-4-nano__Slack_and_Email_Notifications.json)|
 |10466|[10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json)|
+|10778|[10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10778_Build_Gmail_Contact_Database_with_GPT-5_Nano__Brave_Search___Google_Sheets.json)|

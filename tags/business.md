@@ -1,4 +1,4 @@
-# business : 111
+# business : 112
 
 |id|file|
 |----|----|
@@ -113,3 +113,4 @@
 |10336|[10336_Generate_Business_Proposals_with_GPT-4o__Google_Sheets_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10336_Generate_Business_Proposals_with_GPT-4o__Google_Sheets_and_Google_Docs.json)|
 |10391|[10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json)|
 |10640|[10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|

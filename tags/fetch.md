@@ -1,4 +1,4 @@
-# fetch : 23
+# fetch : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |8607|[8607_Fetch_Real-Time_Bitget_Spot_Market_Data_with_GPT-4o___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8607_Fetch_Real-Time_Bitget_Spot_Market_Data_with_GPT-4o___Telegram.json)|
 |8612|[8612_Fetch_Real-Time_MEXC_Spot_Market_Data_with_GPT-4.1-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8612_Fetch_Real-Time_MEXC_Spot_Market_Data_with_GPT-4.1-mini_and_Telegram.json)|
 |10599|[10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json)|
+|10733|[10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10733_Sync_Amazon_Luna_Prime_Games_to_Google_Sheets_with_Automatic_Updates.json)|

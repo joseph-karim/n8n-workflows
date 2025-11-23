@@ -1,4 +1,4 @@
-# in : 525
+# in : 532
 
 |id|file|
 |----|----|
@@ -525,5 +525,12 @@
 |10347|[10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json)|
 |10516|[10516_Automatically_Update_Amazon_Transaction_Memos_in_YNAB_with_AI___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10516_Automatically_Update_Amazon_Transaction_Memos_in_YNAB_with_AI___Gmail.json)|
 |10607|[10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json)|
+|10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
 |10725|[10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json)|
+|10766|[10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10766_Automatic_PDF_Compression_with_iLovePDF_for_Google_Drive_Files.json)|
 |10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
+|10967|[10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json)|
+|10982|[10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json)|
+|10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|
+|11016|[11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json)|
+|11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|

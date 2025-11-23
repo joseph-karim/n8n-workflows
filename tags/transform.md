@@ -1,4 +1,4 @@
-# transform : 62
+# transform : 63
 
 |id|file|
 |----|----|
@@ -64,3 +64,4 @@
 |10311|[10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json)|
 |10340|[10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json)|
 |10592|[10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json)|
+|10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
