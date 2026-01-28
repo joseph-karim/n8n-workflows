@@ -1,0 +1,894 @@
+{
+  "name": "Architecture Firm Enrichment Pipeline",
+  "nodes": [
+    {
+      "parameters": {
+        "filePath": "={{ $json.filePath }}",
+        "options": {
+          "delimiter": ","
+        }
+      },
+      "id": "csv-reader",
+      "name": "Read CSV File",
+      "type": "n8n-nodes-base.readBinaryFile",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {},
+      "id": "csv-parser",
+      "name": "Parse CSV",
+      "type": "n8n-nodes-base.spreadsheetFile",
+      "typeVersion": 2,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "batchSize": 10,
+        "options": {}
+      },
+      "id": "split-batches",
+      "name": "Split In Batches",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combinationMode": "multiplex",
+        "options": {}
+      },
+      "id": "merge-firmographics",
+      "name": "Prepare Firm Data",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 2.1,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "firm-name",
+              "name": "firmName",
+              "value": "={{ $json.company_name || $json.name || $json.firm_name }}",
+              "type": "string"
+            },
+            {
+              "id": "domain",
+              "name": "domain",
+              "value": "={{ $json.website || $json.domain }}",
+              "type": "string"
+            },
+            {
+              "id": "employee-count",
+              "name": "employeeCount",
+              "value": "={{ $json.employee_count || $json.employees || 0 }}",
+              "type": "number"
+            },
+            {
+              "id": "linkedin",
+              "name": "linkedinUrl",
+              "value": "={{ $json.linkedin || $json.linkedin_url || '' }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "normalize-data",
+      "name": "Normalize Firm Data",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.3,
+      "position": [1120, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://serpapi.com/search",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpQueryAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "engine",
+              "value": "google"
+            },
+            {
+              "name": "q",
+              "value": "={{ $json.firmName + ' architecture construction technology digital transformation' }}"
+            },
+            {
+              "name": "num",
+              "value": "10"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "serpapi-signals",
+      "name": "Search Signals (SerpAPI)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1340, 300],
+      "credentials": {
+        "httpQueryAuth": {
+          "id": "serpapi-credentials",
+          "name": "SerpAPI Credentials"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "chat",
+        "operation": "create",
+        "model": "gpt-4o-mini",
+        "messages": {
+          "values": [
+            {
+              "role": "system",
+              "content": "You are an expert at analyzing construction and architecture industry signals. Extract relevant signals from search results and classify them by category."
+            },
+            {
+              "role": "user",
+              "content": "=Analyze these search results for {{ $json.firmName }}:\n\n{{ $json.organic_results }}\n\nExtract signals in the following categories:\n1. Digital Transformation (BIM, digital twins, AI/ML adoption)\n2. Growth Indicators (new offices, acquisitions, hiring)\n3. Technology Stack (software mentions, partnerships)\n4. Construction Administration (CA-heavy projects, coordination)\n5. Target Verticals (healthcare, data centers, commercial)\n\nReturn JSON:\n{\n  \"signals\": [\n    {\"category\": \"string\", \"signal\": \"string\", \"confidence\": 0.0-1.0, \"source\": \"url\"}\n  ],\n  \"totalScore\": 0-100,\n  \"tier\": \"light|medium|heavy\"\n}"
+            }
+          ]
+        },
+        "options": {
+          "response_format": "json_object"
+        }
+      },
+      "id": "llm-classify-signals",
+      "name": "LLM: Classify Signals",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1,
+      "position": [1560, 300],
+      "credentials": {
+        "openAiApi": {
+          "id": "openai-credentials",
+          "name": "OpenAI API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "={{ JSON.parse($json.message.content) }}",
+        "options": {}
+      },
+      "id": "parse-signals",
+      "name": "Parse Signal JSON",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.3,
+      "position": [1780, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": false,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "heavy-tier",
+              "leftValue": "={{ $json.tier }}",
+              "rightValue": "heavy",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            },
+            {
+              "id": "medium-tier",
+              "leftValue": "={{ $json.tier }}",
+              "rightValue": "medium",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "id": "enrichment-router",
+      "name": "Enrichment Router",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [2000, 300]
+    },
+    {
+      "parameters": {
+        "url": "=https://api.builtwith.com/v21/api.json?KEY={{ $credentials.builtwith_api_key }}&LOOKUP={{ $json.domain }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {}
+      },
+      "id": "builtwith-tech",
+      "name": "BuiltWith Tech Stack",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2220, 100],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "builtwith-credentials",
+          "name": "BuiltWith API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "=https://r.jina.ai/{{ $json.domain }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-With-Generated-Alt",
+              "value": "true"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "scrape-website",
+      "name": "Scrape Website Content",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2440, 100]
+    },
+    {
+      "parameters": {
+        "resource": "chat",
+        "operation": "create",
+        "model": "gpt-4o-mini",
+        "messages": {
+          "values": [
+            {
+              "role": "system",
+              "content": "Extract key information from architecture firm website content."
+            },
+            {
+              "role": "user",
+              "content": "=Analyze this website content for {{ $json.firmName }}:\n\n{{ $json.content }}\n\nExtract:\n1. Target verticals (healthcare, education, commercial, data centers, etc.)\n2. Construction Administration mentions/emphasis\n3. Technology mentions (BIM, Revit, digital tools)\n4. Recent projects and their scope\n5. Geographic presence\n\nReturn JSON:\n{\n  \"verticals\": [\"string\"],\n  \"caEmphasis\": true/false,\n  \"techStack\": [\"string\"],\n  \"recentProjects\": [{\"name\": \"string\", \"type\": \"string\", \"size\": \"string\"}],\n  \"locations\": [\"string\"],\n  \"lightScore\": 0-100\n}"
+            }
+          ]
+        },
+        "options": {
+          "response_format": "json_object"
+        }
+      },
+      "id": "llm-light-enrich",
+      "name": "LLM: Light Enrichment",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1,
+      "position": [2660, 100],
+      "credentials": {
+        "openAiApi": {
+          "id": "openai-credentials",
+          "name": "OpenAI API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "https://api.apollo.io/v1/mixed_people/search",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "organization_domains",
+              "value": "={{ [$json.domain] }}"
+            },
+            {
+              "name": "person_titles",
+              "value": "=[\"Principal\", \"Partner\", \"Director of Operations\", \"CTO\", \"Construction Administrator\"]"
+            },
+            {
+              "name": "per_page",
+              "value": "10"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "apollo-contacts",
+      "name": "Apollo: Find Contacts",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2220, 300],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "apollo-credentials",
+          "name": "Apollo API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fieldToSplitOut": "people",
+        "options": {}
+      },
+      "id": "split-contacts",
+      "name": "Split Contacts",
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [2440, 300]
+    },
+    {
+      "parameters": {
+        "batchSize": 5,
+        "options": {}
+      },
+      "id": "batch-contacts",
+      "name": "Batch Contacts",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [2660, 300]
+    },
+    {
+      "parameters": {
+        "resource": "chat",
+        "operation": "create",
+        "model": "gpt-4o-mini",
+        "messages": {
+          "values": [
+            {
+              "role": "system",
+              "content": "You are an expert at analyzing professional profiles to assess fit for construction technology solutions. Analyze based on: 1) Role relevance to tech/ops decisions 2) Construction administration involvement 3) Technology adoption signals 4) Pain point indicators"
+            },
+            {
+              "role": "user",
+              "content": "=Analyze this LinkedIn profile:\n\nName: {{ $json.name }}\nTitle: {{ $json.title }}\nCompany: {{ $json.organization_name }}\nExperience: {{ $json.headline }}\n\nDetermine:\n1. Decision-making authority (0-100)\n2. Construction admin involvement (0-100)\n3. Tech adoption likelihood (0-100)\n4. Pain points (coordination, project delivery, tech gaps)\n5. Engagement channels (email, LinkedIn, phone)\n\nReturn JSON:\n{\n  \"contactScore\": 0-100,\n  \"decisionAuthority\": 0-100,\n  \"caInvolvement\": 0-100,\n  \"techAdoption\": 0-100,\n  \"painPoints\": [\"string\"],\n  \"recommendedOutreach\": \"email|linkedin|phone\",\n  \"personalizedAngle\": \"string (1 sentence)\"\n}"
+            }
+          ]
+        },
+        "options": {
+          "response_format": "json_object"
+        }
+      },
+      "id": "llm-profile-analysis",
+      "name": "LLM: Profile Analysis",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1,
+      "position": [2880, 300],
+      "credentials": {
+        "openAiApi": {
+          "id": "openai-credentials",
+          "name": "OpenAI API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combinationMode": "mergeByPosition",
+        "options": {}
+      },
+      "id": "aggregate-contacts",
+      "name": "Aggregate Contact Scores",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 2.1,
+      "position": [3100, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Scoring Engine\nconst items = $input.all();\nconst results = [];\n\nfor (const item of items) {\n  const json = item.json;\n  \n  // Extract data\n  const firmName = json.firmName || '';\n  const employeeCount = json.employeeCount || 0;\n  const signals = json.signals || [];\n  const lightEnrichment = json.lightEnrichment || {};\n  const contacts = json.contacts || [];\n  \n  // Calculate component scores\n  let signalScore = 0;\n  let enrichmentScore = 0;\n  let contactScore = 0;\n  \n  // Signal scoring (max 40 points)\n  const digitalTransformationSignals = signals.filter(s => s.category === 'Digital Transformation');\n  const growthSignals = signals.filter(s => s.category === 'Growth Indicators');\n  const techStackSignals = signals.filter(s => s.category === 'Technology Stack');\n  const caSignals = signals.filter(s => s.category === 'Construction Administration');\n  const verticalSignals = signals.filter(s => s.category === 'Target Verticals');\n  \n  signalScore += digitalTransformationSignals.length * 10;\n  signalScore += growthSignals.length * 8;\n  signalScore += techStackSignals.length * 6;\n  signalScore += caSignals.length * 12;\n  signalScore += verticalSignals.length * 4;\n  signalScore = Math.min(signalScore, 40);\n  \n  // Enrichment scoring (max 30 points)\n  if (lightEnrichment.verticals && lightEnrichment.verticals.length > 0) {\n    const targetVerticals = ['healthcare', 'data centers', 'commercial', 'higher education'];\n    const matchingVerticals = lightEnrichment.verticals.filter(v => \n      targetVerticals.some(tv => v.toLowerCase().includes(tv))\n    );\n    enrichmentScore += matchingVerticals.length * 8;\n  }\n  \n  if (lightEnrichment.caEmphasis) {\n    enrichmentScore += 15;\n  }\n  \n  if (lightEnrichment.techStack && lightEnrichment.techStack.length > 2) {\n    enrichmentScore += 10;\n  }\n  \n  enrichmentScore = Math.min(enrichmentScore, 30);\n  \n  // Contact scoring (max 30 points)\n  if (contacts.length > 0) {\n    const avgContactScore = contacts.reduce((sum, c) => sum + (c.contactScore || 0), 0) / contacts.length;\n    contactScore = (avgContactScore / 100) * 30;\n    \n    // Bonus for decision-makers\n    const decisionMakers = contacts.filter(c => (c.decisionAuthority || 0) > 70);\n    if (decisionMakers.length > 0) {\n      contactScore += 10;\n    }\n  }\n  \n  contactScore = Math.min(contactScore, 30);\n  \n  // Calculate total score\n  const totalScore = signalScore + enrichmentScore + contactScore;\n  \n  // Determine priority\n  let priority = 'P4';\n  if (totalScore >= 80) priority = 'P1';\n  else if (totalScore >= 65) priority = 'P2';\n  else if (totalScore >= 50) priority = 'P3';\n  \n  // Calculate ICP fit\n  let icpFit = false;\n  if (employeeCount >= 20 && employeeCount <= 200 && \n      (lightEnrichment.caEmphasis || caSignals.length > 0) &&\n      (lightEnrichment.verticals || []).some(v => \n        ['healthcare', 'data centers', 'commercial'].some(tv => v.toLowerCase().includes(tv))\n      )\n  ) {\n    icpFit = true;\n  }\n  \n  results.push({\n    json: {\n      ...json,\n      scoring: {\n        signalScore,\n        enrichmentScore,\n        contactScore,\n        totalScore,\n        priority,\n        icpFit\n      }\n    }\n  });\n}\n\nreturn results;"
+        },
+        "options": {}
+      },
+      "id": "scoring-engine",
+      "name": "Scoring Engine",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [3320, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": false,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "high-priority",
+              "leftValue": "={{ $json.scoring.priority }}",
+              "rightValue": "P1|P2|P3",
+              "operator": {
+                "type": "string",
+                "operation": "regex"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "id": "brief-filter",
+      "name": "Filter for Brief Generation",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [3540, 300]
+    },
+    {
+      "parameters": {
+        "resource": "chat",
+        "operation": "create",
+        "model": "gpt-4o",
+        "messages": {
+          "values": [
+            {
+              "role": "system",
+              "content": "You are an expert sales strategist for construction technology solutions. Create compelling, data-driven outreach briefs for architecture firms."
+            },
+            {
+              "role": "user",
+              "content": "=Create a detailed outreach brief for:\n\nFirm: {{ $json.firmName }}\nPriority: {{ $json.scoring.priority }}\nTotal Score: {{ $json.scoring.totalScore }}\nEmployee Count: {{ $json.employeeCount }}\n\nSignals:\n{{ JSON.stringify($json.signals, null, 2) }}\n\nEnrichment Data:\n{{ JSON.stringify($json.lightEnrichment, null, 2) }}\n\nTop Contacts:\n{{ JSON.stringify($json.contacts.slice(0, 3), null, 2) }}\n\n---\n\nGenerate a brief with:\n\n## Executive Summary\n(2-3 sentences on why this firm is a priority target)\n\n## Key Insights\n- Firmographic fit\n- Technology adoption signals\n- Growth indicators\n- Pain points identified\n\n## Engagement Strategy\n### Recommended Contacts (ranked)\n1. [Name] - [Title] - [Why they matter] - [Outreach channel]\n\n### Messaging Angles\n- Primary hook\n- Pain points to address\n- Value proposition alignment\n\n### Talking Points\n- CA workflow optimization\n- Technology stack integration\n- Industry-specific case studies\n\n## Next Actions\n- [ ] Research recent projects\n- [ ] Warm intro path\n- [ ] Email sequence\n- [ ] LinkedIn engagement\n\n## Supporting Evidence\n(Links and quotes from signals)\n\n---\n\nMake it actionable and specific."
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "llm-brief-generation",
+      "name": "LLM: Generate Brief",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1,
+      "position": [3760, 200],
+      "credentials": {
+        "openAiApi": {
+          "id": "openai-credentials",
+          "name": "OpenAI API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "insert",
+        "schema": "public",
+        "table": "enriched_companies",
+        "columns": {
+          "mappings": [
+            {
+              "column": "firm_name",
+              "value": "={{ $json.firmName }}"
+            },
+            {
+              "column": "domain",
+              "value": "={{ $json.domain }}"
+            },
+            {
+              "column": "employee_count",
+              "value": "={{ $json.employeeCount }}"
+            },
+            {
+              "column": "total_score",
+              "value": "={{ $json.scoring.totalScore }}"
+            },
+            {
+              "column": "priority",
+              "value": "={{ $json.scoring.priority }}"
+            },
+            {
+              "column": "icp_fit",
+              "value": "={{ $json.scoring.icpFit }}"
+            },
+            {
+              "column": "signals",
+              "value": "={{ JSON.stringify($json.signals) }}"
+            },
+            {
+              "column": "enrichment_data",
+              "value": "={{ JSON.stringify($json.lightEnrichment) }}"
+            },
+            {
+              "column": "contacts",
+              "value": "={{ JSON.stringify($json.contacts) }}"
+            },
+            {
+              "column": "brief",
+              "value": "={{ $json.brief }}"
+            },
+            {
+              "column": "processed_at",
+              "value": "={{ $now }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "postgres-insert",
+      "name": "Save to PostgreSQL",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.4,
+      "position": [3980, 300],
+      "credentials": {
+        "postgres": {
+          "id": "postgres-credentials",
+          "name": "PostgreSQL"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "documentId": "={{ $env.GOOGLE_SHEET_ID }}",
+        "sheetName": "Enriched Firms",
+        "columns": {
+          "mappings": [
+            {
+              "column": "Firm Name",
+              "value": "={{ $json.firmName }}"
+            },
+            {
+              "column": "Domain",
+              "value": "={{ $json.domain }}"
+            },
+            {
+              "column": "Employees",
+              "value": "={{ $json.employeeCount }}"
+            },
+            {
+              "column": "Total Score",
+              "value": "={{ $json.scoring.totalScore }}"
+            },
+            {
+              "column": "Priority",
+              "value": "={{ $json.scoring.priority }}"
+            },
+            {
+              "column": "ICP Fit",
+              "value": "={{ $json.scoring.icpFit }}"
+            },
+            {
+              "column": "Signal Count",
+              "value": "={{ $json.signals.length }}"
+            },
+            {
+              "column": "Contact Count",
+              "value": "={{ $json.contacts.length }}"
+            },
+            {
+              "column": "Processed",
+              "value": "={{ $now.toISO() }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "google-sheets-output",
+      "name": "Output to Google Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.4,
+      "position": [3980, 500],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "google-sheets-credentials",
+          "name": "Google Sheets OAuth2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "🎯 *New Priority Firm Enriched*\n\n*Firm:* {{ $json.firmName }}\n*Priority:* {{ $json.scoring.priority }}\n*Score:* {{ $json.scoring.totalScore }}/100\n*ICP Fit:* {{ $json.scoring.icpFit ? '✅ Yes' : '❌ No' }}\n\n*Key Signals:*\n{{ $json.signals.slice(0, 3).map(s => `• ${s.signal}`).join('\\n') }}\n\n*Top Contact:* {{ $json.contacts[0]?.name }} ({{ $json.contacts[0]?.title }})\n\n*Next Steps:* Review brief and initiate outreach",
+        "channel": "={{ $env.SLACK_CHANNEL }}",
+        "options": {}
+      },
+      "id": "slack-notification",
+      "name": "Slack Notification",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.1,
+      "position": [4200, 300],
+      "credentials": {
+        "slackApi": {
+          "id": "slack-credentials",
+          "name": "Slack API"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Read CSV File": {
+      "main": [
+        [
+          {
+            "node": "Parse CSV",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse CSV": {
+      "main": [
+        [
+          {
+            "node": "Split In Batches",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split In Batches": {
+      "main": [
+        [
+          {
+            "node": "Prepare Firm Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare Firm Data": {
+      "main": [
+        [
+          {
+            "node": "Normalize Firm Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalize Firm Data": {
+      "main": [
+        [
+          {
+            "node": "Search Signals (SerpAPI)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Search Signals (SerpAPI)": {
+      "main": [
+        [
+          {
+            "node": "LLM: Classify Signals",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "LLM: Classify Signals": {
+      "main": [
+        [
+          {
+            "node": "Parse Signal JSON",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Signal JSON": {
+      "main": [
+        [
+          {
+            "node": "Enrichment Router",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enrichment Router": {
+      "main": [
+        [
+          {
+            "node": "BuiltWith Tech Stack",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Apollo: Find Contacts",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Scoring Engine",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "BuiltWith Tech Stack": {
+      "main": [
+        [
+          {
+            "node": "Scrape Website Content",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Scrape Website Content": {
+      "main": [
+        [
+          {
+            "node": "LLM: Light Enrichment",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "LLM: Light Enrichment": {
+      "main": [
+        [
+          {
+            "node": "Scoring Engine",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Apollo: Find Contacts": {
+      "main": [
+        [
+          {
+            "node": "Split Contacts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Contacts": {
+      "main": [
+        [
+          {
+            "node": "Batch Contacts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Batch Contacts": {
+      "main": [
+        [
+          {
+            "node": "LLM: Profile Analysis",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "LLM: Profile Analysis": {
+      "main": [
+        [
+          {
+            "node": "Aggregate Contact Scores",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Aggregate Contact Scores": {
+      "main": [
+        [
+          {
+            "node": "Scoring Engine",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Scoring Engine": {
+      "main": [
+        [
+          {
+            "node": "Filter for Brief Generation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter for Brief Generation": {
+      "main": [
+        [
+          {
+            "node": "LLM: Generate Brief",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Save to PostgreSQL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "LLM: Generate Brief": {
+      "main": [
+        [
+          {
+            "node": "Save to PostgreSQL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save to PostgreSQL": {
+      "main": [
+        [
+          {
+            "node": "Output to Google Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Output to Google Sheets": {
+      "main": [
+        [
+          {
+            "node": "Slack Notification",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "name": "enrichment",
+      "id": "1"
+    },
+    {
+      "name": "architecture",
+      "id": "2"
+    },
+    {
+      "name": "lead-scoring",
+      "id": "3"
+    }
+  ],
+  "meta": {
+    "instanceId": "architecture-enrichment-001"
+  },
+  "pinData": {},
+  "versionId": "1.0.0",
+  "triggerCount": 0,
+  "active": false
+}
