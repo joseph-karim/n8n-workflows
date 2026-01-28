@@ -16,3 +16,13 @@ venv/
 ENV/
 *.py
 *.dat
+
+# macOS
+.DS_Store
+
+# Database dumps
+*.sql.dump
+*.sql.gz
+
+# n8n local data
+.n8n/
